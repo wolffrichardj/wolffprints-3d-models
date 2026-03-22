@@ -120,3 +120,13 @@ To add a new model:
 3. Copy `templates/project-readme-template.md` to `README.md` inside that model folder.
 4. Add your model files and any supporting assets.
 5. Update the README with a short description and notes.
+
+## Repository defaults
+
+This repository also includes GitHub repository settings in `.github/settings.yml` for a lightweight solo-maintainer workflow:
+- changes to `main` should go through pull requests
+- squash merge is enabled
+- merge commits and rebase merges are disabled
+- no required reviews or required status checks are configured yet
+
+That gives the repository basic protection without adding process overhead before automated validation exists.
