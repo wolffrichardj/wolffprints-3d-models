@@ -13,6 +13,7 @@ Brief description of what this model is for.
 ## Origin
 - Creator:
 - Source URL:
+- Published URL:
 - License:
 
 ## What changed
