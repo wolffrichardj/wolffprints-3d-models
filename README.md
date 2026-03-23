@@ -1,13 +1,17 @@
 # WolffPrints 3D Models
 
-A personal repository for organizing 3D-printable models, experiments, and printer-ready files.
+A personal repository for organizing 3D-printable models, experiments, printer-ready files, and related publishable outputs.
 
 This repo is intended to be a clean home for:
 - original designs
 - remixes of existing models
 - downloaded models that have been reviewed, tuned, or verified for use
+- local source files or printable exports that may also be published on external platforms such as MakerWorld
 
 The goal is not to lock this collection to any one printer or slicer. Instead, this repository is meant to make it easy to store, browse, version, and describe the models you keep as part of your 3D printing workflow.
+
+Wolff Prints also has a MakerWorld profile where you'll often find the more production-ready or published versions of work that was created, refined, or contributed to alongside this repository:
+- https://makerworld.com/en/@wolff_prints
 
 ## Repository structure
 
@@ -72,6 +76,7 @@ You can also optionally keep supporting files like:
 - assembly instructions
 - print profile notes
 - licensing/source attribution details
+- a published URL for the version that was posted publicly
 
 ## Project README guidance
 
@@ -86,6 +91,7 @@ Recommended sections for each project README:
 - category
 - version
 - source/origin
+- published URL (if shared publicly)
 - changes made
 - printing notes
 - assembly/use notes
@@ -98,8 +104,9 @@ Recommended sections for each project README:
 2. Create a dedicated folder for the model.
 3. Add the model files (`.stl`, `.3mf`, `.scad`, etc.).
 4. Copy the README template into the project folder.
-5. Fill in enough detail so you can understand the model later without opening every file.
-6. Commit updates as the design changes or becomes more printable.
+5. Add the published URL when the model has been posted publicly.
+6. Fill in enough detail so you can understand the model later without opening every file.
+7. Commit updates as the design changes or becomes more printable.
 
 ## Attribution and licensing
 
@@ -119,4 +126,5 @@ To add a new model:
 2. Create a new subfolder for the model.
 3. Copy `templates/project-readme-template.md` to `README.md` inside that model folder.
 4. Add your model files and any supporting assets.
-5. Update the README with a short description and notes.
+5. Add the published URL if the model is also posted publicly.
+6. Update the README with a short description and notes.
