@@ -23,7 +23,7 @@ The is designed to be stack...
 | Version | 1.0 |
 | Designer | SimPrints |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US114a48b141c423` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US114a48b141c423) |
 | License | BY-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

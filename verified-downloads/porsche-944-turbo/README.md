@@ -16,7 +16,7 @@ Perfect for car lovers, garage decoration, office walls, or anyone who enjoys sl
 | Version | 1.0 |
 | Designer | Safakpok |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US787372f357b870` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US787372f357b870) |
 | License | BY-NC-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

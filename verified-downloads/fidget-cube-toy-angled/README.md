@@ -12,7 +12,7 @@ A print-in-place fidget cube with angled edges and 3 textures. Precisely enginee
 | Version | 1.0 |
 | Designer | Austin Vojta |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US9a6f7ab9cda059` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US9a6f7ab9cda059) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

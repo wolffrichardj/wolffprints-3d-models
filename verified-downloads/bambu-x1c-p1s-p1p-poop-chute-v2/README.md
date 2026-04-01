@@ -17,7 +17,7 @@ Standard Model - Fi...
 | Version | v2 |
 | Designer | Jay |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US92e78cafff6b93` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US92e78cafff6b93) |
 | License | BY-NC |
 | MakerWorld origin tag | profile |
 | Status | Downloaded / verified |

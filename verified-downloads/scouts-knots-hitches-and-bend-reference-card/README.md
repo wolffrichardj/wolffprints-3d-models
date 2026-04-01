@@ -26,7 +26,7 @@ https://www.animatedknots.com/bowline-knot
 | Version | 1.0 |
 | Designer | marek |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USf0d9d1ac32b337` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USf0d9d1ac32b337) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

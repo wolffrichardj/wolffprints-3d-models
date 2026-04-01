@@ -32,7 +32,7 @@ Panda 名刺 カード by パンダ MakerWorld：無料3Dモデルをダウン�
 | Version | 1.0 |
 | Designer | パンダ |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USc7ece18a91aacf` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USc7ece18a91aacf) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

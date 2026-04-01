@@ -18,7 +18,7 @@ Provide clear audible &#34;click&#34; feedback during blade sliding....
 | Version | 1.0 |
 | Designer | Trent Studio |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USaf09683e833964` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USaf09683e833964) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

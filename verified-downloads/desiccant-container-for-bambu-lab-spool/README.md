@@ -20,7 +20,7 @@ Made keeping in mind of the design and how “OEM” looks with the Bambu Lab Sp
 | Version | 1.0 |
 | Designer | Mono98 |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US15f809ba9e1867` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US15f809ba9e1867) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

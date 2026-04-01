@@ -21,7 +21,7 @@ Printed from ASA.
 | Version | 1.0 |
 | Designer | ŠteFix |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USe404217c6d4f16` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USe404217c6d4f16) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

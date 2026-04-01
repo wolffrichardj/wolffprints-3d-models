@@ -26,7 +26,7 @@ I personally printed in 0.20 Standard but could be printed in any layer height.
 | Version | 1.0 |
 | Designer | BorgoTechSpace |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US4cd5231b94ce01` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US4cd5231b94ce01) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -12,7 +12,7 @@ Boost MeI&#39;d appreciate a boost if you find this useful!Use this when ratchet
 | Version | 1.0 |
 | Designer | Hopflop_321 |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US9051bd1f8f79eb` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US9051bd1f8f79eb) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

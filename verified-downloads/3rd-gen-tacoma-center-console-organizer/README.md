@@ -18,7 +18,7 @@ If you want other options let me know and I can work on making it for you!
 | Version | 1.0 |
 | Designer | LastLayer3d |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US2ab0de32684ec1` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US2ab0de32684ec1) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

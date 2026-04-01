@@ -18,7 +18,7 @@ Für ...
 | Version | 1.0 |
 | Designer | yakup29 |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US5c8564ce1af7b4` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US5c8564ce1af7b4) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

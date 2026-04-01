@@ -18,7 +18,7 @@ P.S. It&#39;s great for belts too!
 | Version | 1.0 |
 | Designer | Luke Nicholson |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US22645bb2c53532` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US22645bb2c53532) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -16,7 +16,7 @@ Boost Meplease leave a boost as a thank you if you like it.
 | Version | 1.0 |
 | Designer | Tiger prints |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USa106d2f8f88663` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USa106d2f8f88663) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | profile |
 | Status | Downloaded / verified |

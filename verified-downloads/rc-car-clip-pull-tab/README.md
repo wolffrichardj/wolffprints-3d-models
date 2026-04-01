@@ -14,7 +14,7 @@ Boost Meand if you could please boost me
 | Version | 1.0 |
 | Designer | gearjammer3 |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USb62122e1da81ab` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USb62122e1da81ab) |
 | License | BY-NC-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

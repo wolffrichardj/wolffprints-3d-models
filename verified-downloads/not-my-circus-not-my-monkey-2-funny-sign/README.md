@@ -20,7 +20,7 @@ with stand
 | Version | 1.0 |
 | Designer | Klip_CZ |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US49d3fc3d83be65` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US49d3fc3d83be65) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

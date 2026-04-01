@@ -18,7 +18,7 @@ The rest of the award will be laser engraved. Pictures will be posted when they 
 | Version | 1.0 |
 | Designer | Paul |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US62678cd6abd612` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US62678cd6abd612) |
 | License | MakerWorld Exclusive License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

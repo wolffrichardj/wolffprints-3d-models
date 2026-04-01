@@ -12,7 +12,7 @@ Let this fully cool after print (you can remove from the build plate) and rotate
 | Version | 1.0 |
 | Designer | SpacedOut |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US32d31cd81b574` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US32d31cd81b574) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

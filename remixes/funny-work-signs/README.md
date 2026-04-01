@@ -13,7 +13,7 @@
 | Version | 1.0 |
 | Designer | Print in place |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US89b046211fe74a` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US89b046211fe74a) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

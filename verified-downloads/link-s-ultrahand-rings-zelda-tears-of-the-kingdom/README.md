@@ -18,7 +18,7 @@ The data contains both the default version of the rings and second upgraded...
 | Version | 1.0 |
 | Designer | 3Demon |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US5995108acd8190` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US5995108acd8190) |
 | License | BY-ND |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

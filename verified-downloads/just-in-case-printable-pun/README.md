@@ -24,7 +24,7 @@ A super quick print and fun print, guaranteed to get groans and laughs from your
 | Version | 1.0 |
 | Designer | i3Dprint |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US58c0cd0384c7a` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US58c0cd0384c7a) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

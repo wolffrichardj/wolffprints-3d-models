@@ -24,7 +24,7 @@ Link to the hygrometer used for this dry pod : https://www.amazon.ca/dp/B07BLY17
 | Version | 1.0 |
 | Designer | FLP_Design |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USea274bb1c15fb3` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USea274bb1c15fb3) |
 | License | BY |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

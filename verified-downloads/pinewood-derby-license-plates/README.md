@@ -20,7 +20,7 @@ For all of the models the main text is part of the model using the font “<a ta
 | Version | 1.0 |
 | Designer | RevHazlett |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US54d03042ef1eed` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US54d03042ef1eed) |
 | License | BY-NC-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -22,7 +22,7 @@ I only test the stand for silhouttes on my profile
 | Version | 1.0 |
 | Designer | yakup29 |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US8b7d8eff4349ec` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US8b7d8eff4349ec) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

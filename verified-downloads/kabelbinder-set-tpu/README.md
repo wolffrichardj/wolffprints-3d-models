@@ -18,7 +18,7 @@ Diese praktischen **3D-gedruckten Kabelbinder** in verschiedenen Längen sind wi
 | Version | 1.0 |
 | Designer | KK Print |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USe3e0c2a738ff7b` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USe3e0c2a738ff7b) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

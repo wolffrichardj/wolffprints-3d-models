@@ -24,7 +24,7 @@ The tray is placed in the AMS just like the cover alone would be placed; inserti
 | Version | 1.0 |
 | Designer | Lazy_Mardeux |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US5b4be2e1ae5b86` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US5b4be2e1ae5b86) |
 | License | BY-NC-ND |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -23,7 +23,7 @@ U.S. coins have both horizontal storage versions and vertical, with the vertical
 | Version | 1.0 |
 | Designer | cgn397 |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USe6a02e61945fa6` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USe6a02e61945fa6) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

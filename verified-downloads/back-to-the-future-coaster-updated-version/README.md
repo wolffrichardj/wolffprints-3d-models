@@ -14,7 +14,7 @@ Boost MeIt would be awesome if you could leave me a boost **Back to the Future C
 | Version | 1.0 |
 | Designer | chiggerz |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `USa87ed5a8da095a` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USa87ed5a8da095a) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

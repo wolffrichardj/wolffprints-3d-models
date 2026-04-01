@@ -23,7 +23,7 @@ Check out another simplified shape clip here: <a target="_blank" rel="noopener n
 | Version | 1.0 |
 | Designer | Nature Hut |
 | Source / Origin | MakerWorld |
-| Published URL | MakerWorld — search by Model ID `US18bd950aedefc4` |
+| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US18bd950aedefc4) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |
