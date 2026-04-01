@@ -2,13 +2,7 @@
 
 ## Description
 
-**Description**
-**Mini Replica US State License Plate Key Tags. ****Customizable Text****! ***(Directions for customization are below)*
-
-Just a handful of customizable US State License Plate Keychain Tags. More will be added as time goes on, so if your favorite state is not there, keep checking back, or send me a request with an image. *If your in a hurry, I&#39;m easily bribed with Monster Energy lol! *
- 
-
-<span style="color:...
+Customize your own US State License Plate Keychain Tags! This model is fully compatible with the Bambu Lab Customizer. Choose your state, enter your text, and create realistic miniature license plate key tags. More states and styles will be added as requested. If your favorite state is not there, leave a comment!
 
 ## Details
 
@@ -18,7 +12,7 @@ Just a handful of customizable US State License Plate Keychain Tags. More will b
 | Version | 1.0 |
 | Designer | xallex digital design |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mini+us+state+license+plate+key+tags+customizable) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mini+us+state+license+plate+key+tags+customizable) |<br>Deep Link: [https://makerworld.com/en/models/445898-mini-us-state-license-plate-key-tags-customizable](https://makerworld.com/en/models/445898-mini-us-state-license-plate-key-tags-customizable)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

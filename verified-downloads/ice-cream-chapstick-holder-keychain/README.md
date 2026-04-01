@@ -2,19 +2,7 @@
 
 ## Description
 
-**Ice cream cone style keychain for holding ChapStick or lip balm. Works great on lanyards as well. **
-
-&nbsp;
-
-*****Now with two cone designs.*****
-
-&nbsp;
-
-*****Update 4/9/25 *** New plate has been added to the print profile that includes a new ice cream STL. The original is still included. Supports are no longer need for this one as I have tapered the overhang inside the ice cream. *****
-
-&nbsp;
-
-***Update 5/4/25 *** New ice cream swirl design has been added. This will work with e...
+Ice cream cone style keychain for holding ChapStick or lip balm. Works great on lanyards as well. Now with two cone designs. Update 4/9/25: New plate has been added to the print profile that includes a new ice cream STL. The original is still included. Supports are no longer needed for this one as I have tapered the overhang inside the ice cream. Update 5/4/25: New ice cream swirl design has been added. This will work with existing cones.
 
 ## Details
 
@@ -24,7 +12,7 @@
 | Version | 1.0 |
 | Designer | Owl Amazing Crafts |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=ice+cream+chapstick+holder+keychain) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=ice+cream+chapstick+holder+keychain) |<br>Deep Link: [https://makerworld.com/en/models/1081541-ice-cream-chapstick-holder-keychain](https://makerworld.com/en/models/1081541-ice-cream-chapstick-holder-keychain)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -2,7 +2,7 @@
 
 ## Description
 
-Downloaded from MakerWorld.
+This is a steering block I remixed from Sidpatchy's model. I made the piece that attaches to the steering assembly a little bit thicker to make it more durable. Compatibility: Traxxas Bandit, Traxxas Drag Slash, Traxxas Nitro Slash, Traxxas Rustler 2wd, Traxxas Slash 2wd, Traxxas Stampede 2wd. Make sure to follow us so you get notified when we upload a new model!
 
 ## Details
 
@@ -12,7 +12,7 @@ Downloaded from MakerWorld.
 | Version | 1.0 |
 | Designer | Unknown |
 | Source / Origin | MakerWorld |
-| Published URL | — |
+| Published URL | — |<br>Deep Link: [https://makerworld.com/en/models/870482-traxxas-rustler-steering-blocks](https://makerworld.com/en/models/870482-traxxas-rustler-steering-blocks)
 | License | See source |
 | MakerWorld origin tag | — |
 | Status | Downloaded / verified |
