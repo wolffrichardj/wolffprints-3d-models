@@ -2,13 +2,7 @@
 
 ## Description
 
-Arrow of Light logo with a border around it. 3d printed and glued onto a plaque for the Arrow of Light Award at Blue and Gold this year. Gives the plaque a lttle more color than just a laser engraved plaque. This could also be customized to add a youth&#39;s name, Pack, etc. 
-
-&nbsp;
-
-The rest of the award will be laser engraved. Pictures will be posted when they are done. Feel free to use this for your pack. 
-
-
+Arrow of Light logo with a border around it. 3D printed and glued onto a plaque for the Arrow of Light Award at Blue and Gold this year. Gives the plaque a little more color than just a laser engraved plaque. This could also be customized to add a youth's name, Pack, etc. Designed by Paul.
 
 ## Details
 
@@ -18,7 +12,7 @@ The rest of the award will be laser engraved. Pictures will be posted when they 
 | Version | 1.0 |
 | Designer | Paul |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=arrow+of+light+w+border+cross+over+cub+scouts+bsa) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=arrow+of+light+w+border+cross+over+cub+scouts+bsa) |<br>Deep Link: [https://makerworld.com/en/models/2379343-arrow-of-light-w-border-cross-over-cub-scouts-bsa](https://makerworld.com/en/models/2379343-arrow-of-light-w-border-cross-over-cub-scouts-bsa)
 | License | MakerWorld Exclusive License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

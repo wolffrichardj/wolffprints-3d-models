@@ -2,12 +2,7 @@
 
 ## Description
 
-**V2 Update August 2025: **I&#39;ve updated the design based on feedback! Some users were experiencing Bambu Studio adding tree supports when they were not present in my print profile. For the V2 update, I have removed the top crossbar which means no support setting needs to be set - This has significantly shortened print time and uses less filament. I have added a model without the perforations for a shorter print time, a model to suit printers using the rear spool holder and taller model to suit printers using the anti-vibration feet as I am in my images.
- 
-
-Model List:
-
-Standard Model - Fi...
+Overview: A clean and tidy way to manage filament poops and a necessity for all P1S, P2S, X1C and P1P owners! I've designed this on bench with a balance of aesthetics, functionality, print time and filament in mind. Prints in 2-3 hours depending on profile and uses less than 90g of filament. Slide the poop chute into the printer and enjoy the tidy result.
 
 ## Details
 
@@ -17,7 +12,7 @@ Standard Model - Fi...
 | Version | v2 |
 | Designer | Jay |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=bambu+x1c+p1s+p1p+poop+chute+v2) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=bambu+x1c+p1s+p1p+poop+chute+v2) |<br>Deep Link: [https://makerworld.com/en/models/1107679-bambu-x1c-p1s-p2s-p1p-poop-chute-v2](https://makerworld.com/en/models/1107679-bambu-x1c-p1s-p2s-p1p-poop-chute-v2)
 | License | BY-NC |
 | MakerWorld origin tag | profile |
 | Status | Downloaded / verified |

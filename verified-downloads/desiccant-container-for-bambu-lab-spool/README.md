@@ -2,15 +2,7 @@
 
 ## Description
 
-**INTRODUCING THE DESSICANT CONTAINER FOR BAMBU LAB SPOOL**
-
-&nbsp;
-
-**This Spool desiccant container is designed taking your feedback in consideration and keeping you guys in mind. **
-
-**With perfect fitment and style, this desiccant container is designed specifically for the Bambu Lab filament spool. The light Gray one and the Black (High Temp) one. Keep in mind that does not fit into the Clear one. **
-
-Made keeping in mind of the design and how “OEM” looks with the Bambu Lab Spools.&l...
+This Spool desiccant container is designed specifically for the Bambu Lab filament spool. It fits perfectly in the center of the spool to keep your filament dry in storage or during printing. Features an easy-to-use screw-on lid and optimized airflow holes for maximum effectiveness.
 
 ## Details
 
@@ -20,7 +12,7 @@ Made keeping in mind of the design and how “OEM” looks with the Bambu Lab Sp
 | Version | 1.0 |
 | Designer | Mono98 |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=desiccant+container+for+bambu+lab+spool) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=desiccant+container+for+bambu+lab+spool) |<br>Deep Link: [https://makerworld.com/en/models/973318-desiccant-container-for-bambu-lab-spool](https://makerworld.com/en/models/973318-desiccant-container-for-bambu-lab-spool)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

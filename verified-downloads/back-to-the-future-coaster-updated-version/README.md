@@ -2,9 +2,7 @@
 
 ## Description
 
-Boost MeIt would be awesome if you could leave me a boost **Back to the Future Coaster (updated version)***This is an updated version of my previous **Back to the Future coaster**. This version has a more basic image of the delorean, giving a better finish with less details in the wheels. *
-
-<...
+Back to the Future Coaster (updated version). This is an updated version of the previous Back to the Future coaster. This version has a more basic image of the DeLorean, giving a better finish with less details in the wheels. Perfect for fans of nostalgic films. Would look great in a home cinema or man cave.
 
 ## Details
 
@@ -14,7 +12,7 @@ Boost MeIt would be awesome if you could leave me a boost **Back to the Future C
 | Version | 1.0 |
 | Designer | chiggerz |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=back+to+the+future+coaster+updated+version) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=back+to+the+future+coaster+updated+version) |<br>Deep Link: [https://makerworld.com/en/models/1182751-back-to-the-future-coaster-updated-version](https://makerworld.com/en/models/1182751-back-to-the-future-coaster-updated-version)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

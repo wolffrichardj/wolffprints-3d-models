@@ -2,19 +2,7 @@
 
 ## Description
 
-I made a desiccant tray that snaps with the original desiccant cover for the Bambu Lab AMS.
-
-&nbsp;
-
-I simply used PLA and .2mm standard settings for printing.
-
-&nbsp;
-
-This should fit just perfect in your ams if it&#39;s the same as me. I bought it early 2024.
-
-To install the original cover on the desiccant tray, start by joining the part closest to you by first lining up the pimples with the holes on the cover, and then snap it with the tab on the back.
-
-The tray is placed in the AMS just like the cover alone would be placed; inserting the 2 front tabs in place, and sn...
+I made a desiccant tray that snaps with the original desiccant cover for the Bambu Lab AMS. I simply used PLA and .2mm standard settings for printing. This should fit just perfect in your ams if it's the same as mine. To install the original cover on the desiccant tray, join the part closest to you by first lining up the pimples with the holes on the tray.
 
 ## Details
 
@@ -24,7 +12,7 @@ The tray is placed in the AMS just like the cover alone would be placed; inserti
 | Version | 1.0 |
 | Designer | Lazy_Mardeux |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=bambulab+ams+desiccant+tray+w+oem+lid) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=bambulab+ams+desiccant+tray+w+oem+lid) |<br>Deep Link: [https://makerworld.com/en/models/459881-bambulab-ams-desiccant-tray-w-oem-lid](https://makerworld.com/en/models/459881-bambulab-ams-desiccant-tray-w-oem-lid)
 | License | BY-NC-ND |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

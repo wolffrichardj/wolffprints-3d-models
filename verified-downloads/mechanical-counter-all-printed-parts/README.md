@@ -2,10 +2,7 @@
 
 ## Description
 
-Please consider following my YouTube channel—it really helps me keep creating more designs!
-
-**Assembly Instructions for the Mechanical Counter****1. Preparing the Main Shaft Assembly**- Take the **main shaft** and hold it with the **groove on the left side**.
-Identify the **three digit wheels**, marked as:...
+A fully mechanical counter where all parts are 3D printed. No screws or bearings are needed. It can count up to 999. Features a satisfying mechanical click and is a great demonstration of 3D printed mechanisms. Ideal for manual counting tasks or as a desktop toy.
 
 ## Details
 
@@ -15,7 +12,7 @@ Identify the **three digit wheels**, marked as:...
 | Version | 1.0 |
 | Designer | Its On My Mind |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mechanical+counter+all+printed+parts) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mechanical+counter+all+printed+parts) |<br>Deep Link: [https://makerworld.com/en/models/153170-mechanical-counter-all-printed-parts](https://makerworld.com/en/models/153170-mechanical-counter-all-printed-parts)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |
