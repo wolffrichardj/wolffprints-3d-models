@@ -2,11 +2,7 @@
 
 ## Description
 
-Porsche 914 GT Silhouette
-
-&nbsp;
-
-
+Detailed silhouette of the classic Porsche 914GT. Perfect for wall art or desk display. Captures the iconic lines of the vehicle in a minimalist and stylish format designed by yakup29.
 
 ## Details
 
@@ -16,7 +12,7 @@ Porsche 914 GT Silhouette
 | Version | 1.0 |
 | Designer | yakup29 |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=porsche+914+gt) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=porsche+914+gt) |<br>Deep Link: [https://makerworld.com/en/models/1810087-porsche-914gt](https://makerworld.com/en/models/1810087-porsche-914gt)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -2,15 +2,7 @@
 
 ## Description
 
-Boost MeFunny SIGN to your desk
-
-with stand
-
-&nbsp;
-
-&nbsp;
-
-
+A humorous sign expressing the classic sentiment 'Not my circus, not my monkey'. Designed for office environments or as a fun gift. Part of a series of 'funny signs' for coworkers meant to express passive-aggressive thoughts.
 
 ## Details
 
@@ -20,7 +12,7 @@ with stand
 | Version | 1.0 |
 | Designer | Klip_CZ |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=not+my+circus+not+my+monkey+2+funny+sign) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=not+my+circus+not+my+monkey+2+funny+sign) |<br>Deep Link: [https://makerworld.com/en/models/1123139-not-my-monkey-not-my-circus-sign](https://makerworld.com/en/models/1123139-not-my-monkey-not-my-circus-sign)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

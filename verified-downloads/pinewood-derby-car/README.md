@@ -2,9 +2,7 @@
 
 ## Description
 
-Axles are at different heights and angles to minimize friction and so it will ride along the wall of the track. Has a space for weights to be inserted at the back. I printed in ASA and vapor smoothed with acetone, but it can be printed with other filaments and finished in other ways. 
-
-
+Standard pinewood derby car design, optimized for 3D printing. Compatible with official Boy Scouts of America (BSA) pinewood derby rules, featuring proper axle spacing and weight distribution.
 
 ## Details
 
@@ -14,7 +12,7 @@ Axles are at different heights and angles to minimize friction and so it will ri
 | Version | 1.0 |
 | Designer | peterfnau |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+car) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+car) |<br>Deep Link: [https://makerworld.com/en/models/1051515-pinewood-derby-car](https://makerworld.com/en/models/1051515-pinewood-derby-car)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

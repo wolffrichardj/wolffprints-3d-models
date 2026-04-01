@@ -2,7 +2,7 @@
 
 ## Description
 
-Downloaded from MakerWorld.
+Customizable 3D font set based on the Century Gothic/Script family. Ideal for creating custom signs, nameplates, and decorative text projects. Each letter is individually crafted for clarity and ease of printing.
 
 ## Details
 
@@ -12,7 +12,7 @@ Downloaded from MakerWorld.
 | Version | 1.0 |
 | Designer | Unknown |
 | Source / Origin | MakerWorld |
-| Published URL | — |
+| Published URL | — |<br>Deep Link: [https://makerworld.com/en/models/2591781-customizable-3d-font-century-gothic](https://makerworld.com/en/models/2591781-customizable-3d-font-century-gothic)
 | License | See source |
 | MakerWorld origin tag | — |
 | Status | Downloaded / verified |

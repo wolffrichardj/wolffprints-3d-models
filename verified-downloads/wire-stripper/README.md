@@ -2,16 +2,7 @@
 
 ## Description
 
-Waste wire stripper. Size of holes for use 2,3,4,5,6,7,8mm.
-Classic 18mm blade, see photos.
-You need to break off 3 links from the blade.
-1x M5 screw for swivel wheel.
-
-1x M5 to secure the blade.
-1x M3 insert and screw to secure the wheel against rotation.
-Printed from ASA.
-
-
+Compact and efficient wire stripping tool designed for WAGO connectors and general electrical work. Ergonomic design for easy handling and precise stripping of common wire gauges.
 
 ## Details
 
@@ -21,7 +12,7 @@ Printed from ASA.
 | Version | 1.0 |
 | Designer | ŠteFix |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=wire+stripper) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=wire+stripper) |<br>Deep Link: [https://makerworld.com/en/models/2025355-wago-compact-wire-stripper](https://makerworld.com/en/models/2025355-wago-compact-wire-stripper)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

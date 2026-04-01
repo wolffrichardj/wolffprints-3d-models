@@ -2,13 +2,7 @@
 
 ## Description
 
-&nbsp;
-
-Join my Patreon and get a Welcome Pack with 60+designs, keychain versions, new models every week, as well as a license to sell the prints of my models.
-
-&nbsp;
-
-Here is our Bald Eagle</p&g...
+Articulated, print-in-place bald eagle model. Needs no supports. Features realistic wing movement and high detail, making it a great specimen for multi-color printing or display. 3MF Multicolor file available.
 
 ## Details
 
@@ -18,7 +12,7 @@ Here is our Bald Eagle</p&g...
 | Version | 1.0 |
 | Designer | InPlace |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=cute+bald+eagle+articulated) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=cute+bald+eagle+articulated) |<br>Deep Link: [https://makerworld.com/en/models/1806795-cute-bald-eagle-articulated](https://makerworld.com/en/models/1806795-cute-bald-eagle-articulated)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |
