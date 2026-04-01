@@ -2,23 +2,7 @@
 
 ## Description
 
-Simple crochet hooks in the sizes
-
-&nbsp;
-
-2.5 mm
-3.0 mm
-3.5 mm
-4.0 mm
-5.0 mm
-
-&nbsp;
-
-**also available: stitch marker and wool needles (60 to100mm)**&nbsp;
-
-&nbsp;
-
-<...
+Crochet hooks / needles in various sizes. This model covers sizes from 2.5 to 5.0. Designed for easy printing and comfortable use. Perfect for knitting and crochet projects.
 
 ## Details
 
@@ -28,7 +12,7 @@ Simple crochet hooks in the sizes
 | Version | 1.0 |
 | Designer | cforms |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=crochet+hooks+needles+h+kelnadel+size+2+5+v5) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=crochet+hooks+needles+h+kelnadel+size+2+5+v5) |<br>Deep Link: [https://makerworld.com/en/models/669915-crochet-hooks-needles-size-2-5-5](https://makerworld.com/en/models/669915-crochet-hooks-needles-size-2-5-5)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

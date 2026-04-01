@@ -2,15 +2,7 @@
 
 ## Description
 
-I was asked last minute to make some props for our Pinewood Derby photobooth as well as some extra hand-outs. I ended up making a quick to-scale license plate that I scaled down to 245mm to fit on the printer. Provided are two full-size plates, one generic for the photo booth and one “grand prize&#34; 1st Place.
-
-&nbsp;
-
-Also included are some smaller ones - that fit at least six to a plate - for various individual awards.
-
-&nbsp;
-
-For all of the models the main text is part of the model using the font “<a target="_blank" rel="noopener noreferrer ugc" href="https://www.fontspace.co...
+Quick to-scale license plate models. Provided are two full-size plates (one generic and one '1st Place') for photo booths, along with smaller versions designed specifically for Pinewood Derby cars.
 
 ## Details
 
@@ -20,7 +12,7 @@ For all of the models the main text is part of the model using the font “<a ta
 | Version | 1.0 |
 | Designer | RevHazlett |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+license+plates) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+license+plates) |<br>Deep Link: [https://makerworld.com/en/models/1085554-pinewood-derby-license-plates](https://makerworld.com/en/models/1085554-pinewood-derby-license-plates)
 | License | BY-NC-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

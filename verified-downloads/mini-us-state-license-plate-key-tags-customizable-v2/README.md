@@ -2,13 +2,7 @@
 
 ## Description
 
-**Description**
-**Mini Replica US State License Plate Key Tags. ****Customizable Text****! ***(Directions for customization are below)*
-
-Just a handful of customizable US State License Plate Keychain Tags. More will be added as time goes on, so if your favorite state is not there, keep checking back, or send me a request with an image. *If your in a hurry, I&#39;m easily bribed with Monster Energy lol! *
- 
-
-<span style="color:...
+Customizable license plate key tags for all 50 US states. You can customize the name, state, and color using the MakerWorld Customizer. Perfect for personalized gifts or identifying keys.
 
 ## Details
 
@@ -18,7 +12,7 @@ Just a handful of customizable US State License Plate Keychain Tags. More will b
 | Version | 1.0 |
 | Designer | xallex digital design |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mini+us+state+license+plate+key+tags+customizable+v2) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mini+us+state+license+plate+key+tags+customizable+v2) |<br>Deep Link: [https://makerworld.com/en/models/230182-mini-us-state-license-plate-key-tags-customizable](https://makerworld.com/en/models/230182-mini-us-state-license-plate-key-tags-customizable)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

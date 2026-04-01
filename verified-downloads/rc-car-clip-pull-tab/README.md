@@ -2,9 +2,7 @@
 
 ## Description
 
-pin pull tab so you don&#39;t hurt your hand when you remove those pesky body clips
-
-Boost Meand if you could please boost me
+RC Car Body Clip Pull Tabs - Easy‑Print, Glove‑Friendly Design. This simple, reliable pull‑tab is designed to attach to the standard metal body clips used on most RC shells. On cold days—or anytime you're wearing gloves—those tiny clips can be a real pain to remove. These pull tabs give you a solid grip and make body removal quick and effortless.
 
 ## Details
 
@@ -14,7 +12,7 @@ Boost Meand if you could please boost me
 | Version | 1.0 |
 | Designer | gearjammer3 |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=rc+car+clip+pull+tab) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=rc+car+clip+pull+tab) |<br>Deep Link: [https://makerworld.com/en/models/2213382-rc-car-body-shell-clip-pull-tabs](https://makerworld.com/en/models/2213382-rc-car-body-shell-clip-pull-tabs)
 | License | BY-NC-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

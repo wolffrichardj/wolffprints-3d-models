@@ -2,9 +2,7 @@
 
 ## Description
 
-This is a replacement rubber foot for a crock-pot brand slow cooker. This is specifically for model #: CPSCVTS70LL-S. It may fit other models of crock-pots. The foot can take some effort to push into the crock-pot foot hole. Also, suggest twisting while pushing down to get it in. It should be snug and not move around once pushed in.
-
-
+Replacement rubber foot for a Crock-Pot brand slow cooker (specifically model #: CPSCVTS70LL-S). May fit other models. It requires some effort to push into the foot hole; twisting while pushing is recommended for a snug fit.
 
 ## Details
 
@@ -14,7 +12,7 @@ This is a replacement rubber foot for a crock-pot brand slow cooker. This is spe
 | Version | 1.0 |
 | Designer | kurticus |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=crock+pot+replacement+foot) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=crock+pot+replacement+foot) |<br>Deep Link: [https://makerworld.com/en/models/408401](https://makerworld.com/en/models/408401)
 | License | BY-NC |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -2,19 +2,7 @@
 
 ## Description
 
-Full silica dry pod kit for AMS.
-
-&nbsp;
-
-Printed with Bambu Lab black PLA matte (see photos).
-
-&nbsp;
-
-Designed with a hygrometer hole that goes through all the middle pod. that allow an empty reading area for the hygrometer. Data cannot be distorted by silica too close to the reader.
-
-&nbsp;
-
-Link to the hygrometer used for this dry pod : https://www.amazon.ca/dp/B07BLY177S?psc=1...
+Full silica dry pod kit for AMS. Designed with a hygrometer hole that goes through the middle pod, creating an empty area for the sensor. This ensures hygrometer readings are not distorted by silica too close to the sensor.
 
 ## Details
 
@@ -24,7 +12,7 @@ Link to the hygrometer used for this dry pod : https://www.amazon.ca/dp/B07BLY17
 | Version | 1.0 |
 | Designer | FLP_Design |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=ams+dry+kit+full+hygrometer+reading+area) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=ams+dry+kit+full+hygrometer+reading+area) |<br>Deep Link: [https://makerworld.com/en/models/149506-ams-dry-kit-full-hygrometer-reading-area](https://makerworld.com/en/models/149506-ams-dry-kit-full-hygrometer-reading-area)
 | License | BY |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |
