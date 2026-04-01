@@ -1,0 +1,36 @@
+# 3Rd Gen Tacoma Center Console Organizer
+
+## Description
+
+&lt;p&gt;Created this model due to not being happy with the current products on the market. It gives you a chance to organize your center console and tailor the model to your exact needs. &lt;/p&gt;&lt;p&gt;I&amp;#39;ve added some basic spaces and the coin holder . &lt;/p&gt;&lt;p&gt;If you want other options let me know and I can work on making it for you!&lt;/p&gt;
+
+## Details
+
+| Field | Value |
+|---|---|
+| Category | verified-downloads |
+| Version | 1.0 |
+| Designer | LastLayer3d |
+| Source / Origin | MakerWorld |
+| Published URL | MakerWorld — search by Model ID `US2ab0de32684ec1` |
+| License | Standard Digital File License |
+| MakerWorld origin tag | original |
+| Status | Downloaded / verified |
+
+## File inventory
+
+| File | Description |
+|---|---|
+| `Center Console Organizer.3mf` | Bambu Studio project file (print-ready) |
+
+## Changes made
+
+N/A — downloaded as-is.
+
+## Printing notes
+
+No specific notes recorded. Refer to the designer's MakerWorld page for recommended settings.
+
+## Assembly / use notes
+
+No assembly notes recorded.
