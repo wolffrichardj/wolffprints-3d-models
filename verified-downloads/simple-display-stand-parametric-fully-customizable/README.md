@@ -2,11 +2,7 @@
 
 ## Description
 
-A simple stand you can customize in OpenSCAD or MakerLab&#39;s Parametric Model Maker! Start off with a little 50mm tall coin or card stand and get creative! Use it for photos, books, or signs. Increase or decrease every parameter - height, length, and width of each part, as well as the angle of the backing and between stand legs. Scale up to a Hueforge display or go wide to a phone stand, all with custom measurements for a perfect fit. The sky (and build plate volume) is the limit!
-
-&nbsp;
-
-<img class="image_resized" style="width: 24.26%" src="https://makerworld.bblmw.com/makerworld/model/DSM00000000479988/design/2024...
+This parametric, fully customizable display stand is designed for 3D printing to hold items like photos, cards, books, or Hueforges. It allows full customization of height, length, width, and angles (backing/legs) via OpenSCAD or MakerLab's Parametric Model Maker for a perfect fit. Key features include customizable parameters for scaling from small coin stands to larger tablet displays, high stability design optimized for printing flat, and functional versatility for various display needs.
 
 ## Details
 
@@ -16,7 +12,7 @@ A simple stand you can customize in OpenSCAD or MakerLab&#39;s Parametric Model 
 | Version | 1.0 |
 | Designer | Kopp3D |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=simple+display+stand+parametric+fully+customizable) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=simple+display+stand+parametric+fully+customizable) |<br>Deep Link: [https://makerworld.com/en/models/479988-simple-display-stand-parametric-fully-customizable](https://makerworld.com/en/models/479988-simple-display-stand-parametric-fully-customizable)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

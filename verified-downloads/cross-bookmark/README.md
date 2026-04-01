@@ -2,23 +2,7 @@
 
 ## Description
 
-Keep your place with this simple elegant cross bookmark.
-
-At just 110mm tall, it is perfect for any size book or bible, also it only takes ~13 minutes to print.
-
-&nbsp;
-
-With the addition of some jute or string it gives this bookmark the ultimate antique aesthetic.
-
-&nbsp;
-
-Feel free to leave a comment and a like, let me know how your&#39;s turns out!
-
-&nbsp;
-
-&nbsp;
-
-
+The Cross Bookmark is a simple, elegant 3D-printable model designed for use in books, bibles, or journals. Its thin, flat profile ensures it does not damage book bindings while remaining securely in place. It is an ideal quick-print project for gifts or personal use, often customized with different colors or textures to suit individual preferences.
 
 ## Details
 
@@ -28,7 +12,7 @@ Feel free to leave a comment and a like, let me know how your&#39;s turns out!
 | Version | 1.0 |
 | Designer | LukePrints |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=cross+bookmark) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=cross+bookmark) |<br>Deep Link: [https://makerworld.com/en/models/1586137-cross-bookmark](https://makerworld.com/en/models/1586137-cross-bookmark)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

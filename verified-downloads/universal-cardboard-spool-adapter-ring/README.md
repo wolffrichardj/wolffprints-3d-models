@@ -2,17 +2,7 @@
 
 ## Description
 
-Update: Version 2 is now out! It has spool diameter engravings to easier find the right ring when having multiple laying around.
-
-&nbsp;
-
-This simple cardboard spool adapter for AMS makes cardboard spools AMS-compatible while only taking 4 g of filament and 18 minutes of print time per part… and it looks really cool :)
-
-&nbsp;
-
-**Features**
-
-Make cardboard spools...
+The Universal Cardboard Spool Adapter Ring is a utility model designed to make cardboard filament spools compatible with various AMS (Automatic Material System) units or spool holders. It snaps onto the rim of cardboard spools to provide a smoother rolling surface and prevent cardboard dust from entering sensitive components. The 'universal' design includes multiple variations or a flexible geometry to fit different spool brands.
 
 ## Details
 
@@ -22,7 +12,7 @@ Make cardboard spools...
 | Version | 1.0 |
 | Designer | Molodos |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=universal+cardboard+spool+adapter+ring) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=universal+cardboard+spool+adapter+ring) |<br>Deep Link: [https://makerworld.com/en/models/1187157-universal-cardboard-spool-adapter-ring](https://makerworld.com/en/models/1187157-universal-cardboard-spool-adapter-ring)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

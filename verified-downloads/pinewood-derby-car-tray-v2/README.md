@@ -2,18 +2,7 @@
 
 ## Description
 
-This is a storage tray for storing and displaying Pinewood Derby cars. The tray is designed to be stacked and to minimize car rolling. It has also allowed for easier storage of my kids&#39; cars in a Sterilite 15qt plastic storage container to safely store their Cub Scout memories.
-
-There are two variants on the tray:
-
-
-- The short version is intended for cars with low/minimal height
-- The high version is intended for cars that are taller
-
-A couple of design notes:
-
-- The tray is designed to be printed without supports
-The is designed to be stack...
+The Pinewood Derby Car Tray is a functional storage and display solution for Pinewood Derby cars. Version 2 improves upon the original with better structural support and recesses for wheels, ensuring the car remains stable and the axles are protected from pressure during transport. It is a must-have for scouts and hobbyists looking to keep their cars in peak condition between races.
 
 ## Details
 
@@ -23,7 +12,7 @@ The is designed to be stack...
 | Version | 1.0 |
 | Designer | SimPrints |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+car+tray+v2) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+car+tray+v2) |<br>Deep Link: [https://makerworld.com/en/models/1521889-pinewood-derby-car-tray](https://makerworld.com/en/models/1521889-pinewood-derby-car-tray)
 | License | BY-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

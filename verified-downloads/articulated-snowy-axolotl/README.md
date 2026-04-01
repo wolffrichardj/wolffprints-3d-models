@@ -2,9 +2,7 @@
 
 ## Description
 
-Due to the popularity of my original axolotl flexi, I decided to make a winter themed version - this time snowflake themed!
-
-Perfect as a treat for yourself or a stocking stuffer. I have included profiles for separate eyes and embedded eyes both in multi-color and single color. All of these profiles include keychain holes, but I can upload profiles without them upon request. Axolotls are print-in-place and support free. You may need to snap the legs for the first wiggle (betw...
+The Snowy Axolotl Flexi is a highly detailed, articulated 3D model of an axolotl featuring a 'snowy' or winter-themed texture. This model is designed for print-in-place functionality, meaning no assembly is required after printing. It features multiple joints for lifelike movement and is optimized for high-quality aesthetic results with either single or multi-color 3D printing.
 
 ## Details
 
@@ -14,7 +12,7 @@ Perfect as a treat for yourself or a stocking stuffer. I have included profiles 
 | Version | 1.0 |
 | Designer | Cosmo Moore |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=articulated+snowy+axolotl) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=articulated+snowy+axolotl) |<br>Deep Link: [https://makerworld.com/en/models/1970117-snowy-axolotl-flexi](https://makerworld.com/en/models/1970117-snowy-axolotl-flexi)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |
