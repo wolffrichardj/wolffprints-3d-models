@@ -2,7 +2,7 @@
 
 ## Description
 
-Boost MeDesigning these models is a time-intensive process, involving countless hours of testing and fine-tuning to ensure they’re easy for everyone to print. If you enjoy my work, please consider giving it a boost. Your support means the world and helps me continue bringing more fun and functional designs to life!Universal Snap-On Filament ClipThis is a simple, sturdy clip to keep your spools tidy without the headache of threading the filament through tiny holes. With this one, you just push it against the “lips” with your thumbs and it snaps right in.&l...
+Finding a filament clip should be easy for such a small piece of plastic. I have tried many over the years and this is my favorite. I even created a color code and storage tray for them. Thanks.
 
 ## Details
 
@@ -12,7 +12,7 @@ Boost MeDesigning these models is a time-intensive process, involving countless 
 | Version | 1.0 |
 | Designer | LightBulb |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=perfect+filament+clip) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=perfect+filament+clip) |<br>Deep Link: [https://makerworld.com/en/models/258522-the-perfect-filament-clip](https://makerworld.com/en/models/258522-the-perfect-filament-clip)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

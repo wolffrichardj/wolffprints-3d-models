@@ -16,7 +16,7 @@ Meet **Mini Banana Buddy**, the tiniest and cutest banana companion! 🍌✨
 | Version | 1.0 |
 | Designer | fifindr |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mini+banana+buddy) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mini+banana+buddy) |<br>Deep Link: [https://makerworld.com/en/models/1124459-mini-banana-buddy](https://makerworld.com/en/models/1124459-mini-banana-buddy)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

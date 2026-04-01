@@ -2,27 +2,7 @@
 
 ## Description
 
-「写真がどうも映えない」「商品の魅力を最大限に伝えたい」。そんなお悩みはありませんか？簡易撮影ブースは、誰でも手軽に高品質な写真を撮影できる、コンパクトな撮影スタジオです。
-
-コンパクトに収納でき、組み立てもわずか数分。どこでもあなたのミニスタジオに早変わりします。
-
-&nbsp;
-
-紙のサイズは自由で撮影するものによって変更が可能です。
-
-また、取付用の穴が開いているので壁に固定したり、土台などにも固定することができます。
-
-&nbsp;
-
-※15gと軽量で34分で印刷ができます。
-
-&nbsp;
-
-&nbsp;
-
-パンダカードが気になった方は、下のURLから確認してください。
-
-Panda 名刺 カード by パンダ MakerWorld：無料3Dモデルをダウンロード...
+This simple photography booth is a compact studio enabling anyone to effortlessly capture high-quality images. Compact for storage and assembled in mere minutes. It is also designed to be printed with almost no support, so it's easy to make. I've designed it to be used with a standard LED light strip (optional).
 
 ## Details
 
@@ -32,7 +12,7 @@ Panda 名刺 カード by パンダ MakerWorld：無料3Dモデルをダウン�
 | Version | 1.0 |
 | Designer | パンダ |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=photo+booth+simple+japanese) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=photo+booth+simple+japanese) |<br>Deep Link: [https://makerworld.com/en/models/1527169-simple-photography-booth-no-support-needed](https://makerworld.com/en/models/1527169-simple-photography-booth-no-support-needed)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

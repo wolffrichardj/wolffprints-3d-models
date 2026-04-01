@@ -18,7 +18,7 @@ How to Use- **Position the Jig:** Insert the small rectangular tab on the 3D pri
 | Version | 1.0 |
 | Designer | aarowhead_labs |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+axle+alignment+guide+jig+v2) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+axle+alignment+guide+jig+v2) |<br>Deep Link: [https://makerworld.com/en/models/151323](https://makerworld.com/en/models/151323)
 | License | CC0 |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -2,11 +2,7 @@
 
 ## Description
 
-DeLorean DMC can be resized or mirrored for opposite direction. Have it sized currently to fit on all printbeds including a mini.
-
-&nbsp;
-
-Boost Meplease leave a boost as a thank you if you like it.
+DeLorean DMC can be resized or mirrored for opposite direction. Have it sized currently to fit on all printbeds including a mini. Boost Me (for free).
 
 ## Details
 
@@ -16,7 +12,7 @@ Boost Meplease leave a boost as a thank you if you like it.
 | Version | 1.0 |
 | Designer | Tiger prints |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=delorean+dmc+wall+art+silhouette) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=delorean+dmc+wall+art+silhouette) |<br>Deep Link: [https://makerworld.com/en/models/1739068-delorean-dmc-wall-art-silhouette](https://makerworld.com/en/models/1739068-delorean-dmc-wall-art-silhouette)
 | License | Standard Digital File License |
 | MakerWorld origin tag | profile |
 | Status | Downloaded / verified |

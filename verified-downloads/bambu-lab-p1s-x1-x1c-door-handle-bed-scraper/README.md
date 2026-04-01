@@ -2,21 +2,7 @@
 
 ## Description
 
-Simple but effective bed scraper that will fit on the door handle of your Bambu Lab X1C, X1 or P1S.
-
-&nbsp;
-
-Fits perfectly and wont exceed the side profile of the printer.
-
-&nbsp;
-
-Makes it easyer to open the front door and to keep a scraper always on hand.
-
-&nbsp;
-
-I personally printed in 0.20 Standard but could be printed in any layer height.
-
-
+Simple but effective bed scraper that will fit on the door handle of your Bambu Lab X1C, X1 or P1S. Included is a profile for common scrapers and also a profile with a 0.2mm tolerance for those with calibrated printers. Enjoy!
 
 ## Details
 
@@ -26,7 +12,7 @@ I personally printed in 0.20 Standard but could be printed in any layer height.
 | Version | 1.0 |
 | Designer | BorgoTechSpace |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=bambu+lab+p1s+x1+x1c+door+handle+bed+scraper) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=bambu+lab+p1s+x1+x1c+door+handle+bed+scraper) |<br>Deep Link: [https://makerworld.com/en/models/511342-bambu-lab-p1s-x1-x1c-door-handle-bed-scraper](https://makerworld.com/en/models/511342-bambu-lab-p1s-x1-x1c-door-handle-bed-scraper)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

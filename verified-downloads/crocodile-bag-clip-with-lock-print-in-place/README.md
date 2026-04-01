@@ -23,7 +23,7 @@ Check out another simplified shape clip here: <a target="_blank" rel="noopener n
 | Version | 1.0 |
 | Designer | Nature Hut |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=crocodile+bag+clip+with+lock+print+in+place) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=crocodile+bag+clip+with+lock+print+in+place) |<br>Deep Link: [https://makerworld.com/en/models/1163143](https://makerworld.com/en/models/1163143)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |
