@@ -14,7 +14,7 @@ This is a very intuitive design. Its purpose is to block the plug on the p1s, bu
 | Version | 1.0 |
 | Designer | y2zyyr |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US5299d06c39e197) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=p1s+prick+plug) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -13,7 +13,7 @@
 | Version | 1.0 |
 | Designer | Print in place |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US89b046211fe74a) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=funny+work+signs) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

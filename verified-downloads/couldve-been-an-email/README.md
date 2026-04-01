@@ -16,7 +16,7 @@ Coaster is 97mm diameter, 4mm thick. Print on textured plate face down. 0.4 nozz
 | Version | 1.0 |
 | Designer | mipmay3D |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USf350f4d02c4c6f) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=couldve+been+an+email) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

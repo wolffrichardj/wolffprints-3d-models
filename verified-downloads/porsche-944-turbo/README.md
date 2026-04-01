@@ -16,7 +16,7 @@ Perfect for car lovers, garage decoration, office walls, or anyone who enjoys sl
 | Version | 1.0 |
 | Designer | Safakpok |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US787372f357b870) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=porsche+944+turbo) |
 | License | BY-NC-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

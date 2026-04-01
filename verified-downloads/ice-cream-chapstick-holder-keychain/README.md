@@ -24,7 +24,7 @@
 | Version | 1.0 |
 | Designer | Owl Amazing Crafts |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USc82a816994d203) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=ice+cream+chapstick+holder+keychain) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

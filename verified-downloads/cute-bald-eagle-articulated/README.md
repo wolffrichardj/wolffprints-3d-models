@@ -18,7 +18,7 @@ Here is our Bald Eagle</p&g...
 | Version | 1.0 |
 | Designer | InPlace |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USf10bdd8f1f2d40) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=cute+bald+eagle+articulated) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

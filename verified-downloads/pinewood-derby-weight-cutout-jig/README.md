@@ -17,7 +17,7 @@ Our **Kub Kar consistently achieves race times between 2.719 and 2.803 seconds**
 | Version | 1.0 |
 | Designer | Rixky |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US688c1f1ad4efa) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+weight+cutout+jig) |
 | License | BY-NC-ND |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

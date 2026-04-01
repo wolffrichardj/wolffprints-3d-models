@@ -20,7 +20,7 @@ Be careful not to let stuff get to tall hit the back belt.
 | Version | 1.0 |
 | Designer | Lumpy3D |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USc852025a05b22a) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=brick+plug+for+x1+p1+printers+easy+fit+remix) |
 | License | BY-NC-SA |
 | MakerWorld origin tag | remix |
 | Status | Downloaded / verified |

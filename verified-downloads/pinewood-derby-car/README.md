@@ -14,7 +14,7 @@ Axles are at different heights and angles to minimize friction and so it will ri
 | Version | 1.0 |
 | Designer | peterfnau |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USbb88236b24085c) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+car) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

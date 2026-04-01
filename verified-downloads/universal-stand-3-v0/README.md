@@ -18,7 +18,7 @@ Für ...
 | Version | 1.0 |
 | Designer | yakup29 |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US5c8564ce1af7b4) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=universal+stand+3+v0) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -20,7 +20,7 @@ with stand
 | Version | 1.0 |
 | Designer | Klip_CZ |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US49d3fc3d83be65) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=not+my+circus+not+my+monkey+2+funny+sign) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

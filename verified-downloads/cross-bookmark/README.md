@@ -28,7 +28,7 @@ Feel free to leave a comment and a like, let me know how your&#39;s turns out!
 | Version | 1.0 |
 | Designer | LukePrints |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USbd96c79f4dbce0) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=cross+bookmark) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

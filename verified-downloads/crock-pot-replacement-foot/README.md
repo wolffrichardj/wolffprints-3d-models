@@ -14,7 +14,7 @@ This is a replacement rubber foot for a crock-pot brand slow cooker. This is spe
 | Version | 1.0 |
 | Designer | kurticus |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US956b8f7ff724e5) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=crock+pot+replacement+foot) |
 | License | BY-NC |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

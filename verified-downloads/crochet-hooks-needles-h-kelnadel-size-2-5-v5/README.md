@@ -28,7 +28,7 @@ Simple crochet hooks in the sizes
 | Version | 1.0 |
 | Designer | cforms |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USd5d6c80e197d8c) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=crochet+hooks+needles+h+kelnadel+size+2+5+v5) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

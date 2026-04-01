@@ -12,7 +12,7 @@ Boost MeDesigning these models is a time-intensive process, involving countless 
 | Version | 1.0 |
 | Designer | LightBulb |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USd5ab3099dead3a) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=perfect+filament+clip) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -15,7 +15,7 @@ Identify the **three digit wheels**, marked as:...
 | Version | 1.0 |
 | Designer | Its On My Mind |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US72f9a1d080a431) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mechanical+counter+all+printed+parts) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -12,7 +12,7 @@ Let this fully cool after print (you can remove from the build plate) and rotate
 | Version | 1.0 |
 | Designer | SpacedOut |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US32d31cd81b574) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=slip+flip+slide+basketball+fidget+toy+37+mins) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

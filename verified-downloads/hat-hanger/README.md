@@ -18,7 +18,7 @@ P.S. It&#39;s great for belts too!
 | Version | 1.0 |
 | Designer | Luke Nicholson |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US22645bb2c53532) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=hat+hanger) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

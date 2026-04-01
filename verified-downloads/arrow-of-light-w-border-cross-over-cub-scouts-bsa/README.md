@@ -18,7 +18,7 @@ The rest of the award will be laser engraved. Pictures will be posted when they 
 | Version | 1.0 |
 | Designer | Paul |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US62678cd6abd612) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=arrow+of+light+w+border+cross+over+cub+scouts+bsa) |
 | License | MakerWorld Exclusive License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -20,7 +20,7 @@ Feel free to use the blank side of this box to add your Pack/Troop ...
 | Version | 1.0 |
 | Designer | Old Gregg |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US17b2dd19e383bc) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+inspection+box) |
 | License | BY-NC |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

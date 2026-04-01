@@ -32,7 +32,7 @@ Panda 名刺 カード by パンダ MakerWorld：無料3Dモデルをダウン�
 | Version | 1.0 |
 | Designer | パンダ |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USc7ece18a91aacf) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=photo+booth+simple+japanese) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

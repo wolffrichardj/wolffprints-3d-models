@@ -14,7 +14,7 @@ Silicagel holder for Kingroon spools
 | Version | 1.0 |
 | Designer | Jeroen |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US434cc972d6e08b) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=kingroon+silica+gel+holder) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

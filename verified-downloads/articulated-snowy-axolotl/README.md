@@ -14,7 +14,7 @@ Perfect as a treat for yourself or a stocking stuffer. I have included profiles 
 | Version | 1.0 |
 | Designer | Cosmo Moore |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USbca8c9f572839f) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=articulated+snowy+axolotl) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

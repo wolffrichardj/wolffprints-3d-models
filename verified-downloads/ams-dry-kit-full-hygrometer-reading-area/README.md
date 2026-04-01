@@ -24,7 +24,7 @@ Link to the hygrometer used for this dry pod : https://www.amazon.ca/dp/B07BLY17
 | Version | 1.0 |
 | Designer | FLP_Design |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USea274bb1c15fb3) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=ams+dry+kit+full+hygrometer+reading+area) |
 | License | BY |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

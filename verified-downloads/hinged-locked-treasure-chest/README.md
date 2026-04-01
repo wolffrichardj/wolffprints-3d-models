@@ -22,7 +22,7 @@ Its quick printing and the loc...
 | Version | 1.0 |
 | Designer | BrianM801 |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USca125b81a645e5) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=hinged+locked+treasure+chest) |
 | License | BY-NC-SA |
 | MakerWorld origin tag | remix |
 | Status | Downloaded / verified |

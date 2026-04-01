@@ -14,7 +14,7 @@ Miniature baby bottle for doll play
 | Version | 1.0 |
 | Designer | nosidE |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US3fcfdce804cd65) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=miniature+baby+bottle) |
 | License | BY-NC-ND |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

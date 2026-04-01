@@ -16,7 +16,7 @@ Porsche 914 GT Silhouette
 | Version | 1.0 |
 | Designer | yakup29 |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US37aae62aa3556c) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=porsche+914+gt) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

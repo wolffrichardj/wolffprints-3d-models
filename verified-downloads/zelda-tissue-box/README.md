@@ -13,7 +13,7 @@ Features a mechanism using a hidden key in the base to light up LED eyes. This i
 | Version | 1.0 |
 | Designer | UniPrintLab 优逆 |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US8f5d610fef7474) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=zelda+tissue+box) |
 | License | BY-NC-SA |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

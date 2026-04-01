@@ -18,7 +18,7 @@ Provide clear audible &#34;click&#34; feedback during blade sliding....
 | Version | 1.0 |
 | Designer | Trent Studio |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USaf09683e833964) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=edc+friendly+lightweight+utility+knife+ii+v2) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

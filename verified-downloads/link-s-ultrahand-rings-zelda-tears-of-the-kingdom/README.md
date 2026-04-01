@@ -18,7 +18,7 @@ The data contains both the default version of the rings and second upgraded...
 | Version | 1.0 |
 | Designer | 3Demon |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US5995108acd8190) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=link+s+ultrahand+rings+zelda+tears+of+the+kingdom) |
 | License | BY-ND |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

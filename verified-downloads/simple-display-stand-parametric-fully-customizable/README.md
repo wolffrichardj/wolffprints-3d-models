@@ -16,7 +16,7 @@ A simple stand you can customize in OpenSCAD or MakerLab&#39;s Parametric Model 
 | Version | 1.0 |
 | Designer | Kopp3D |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US4bcc8f6b899834) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=simple+display+stand+parametric+fully+customizable) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -22,7 +22,7 @@ Make cardboard spools...
 | Version | 1.0 |
 | Designer | Molodos |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US7a2c99777d3003) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=universal+cardboard+spool+adapter+ring) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

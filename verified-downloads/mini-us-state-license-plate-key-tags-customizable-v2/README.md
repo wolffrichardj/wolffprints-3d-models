@@ -18,7 +18,7 @@ Just a handful of customizable US State License Plate Keychain Tags. More will b
 | Version | 1.0 |
 | Designer | xallex digital design |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US14b19a7cc511c9) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mini+us+state+license+plate+key+tags+customizable+v2) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

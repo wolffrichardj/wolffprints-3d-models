@@ -19,7 +19,7 @@ It folds down to less than a third of its full height, making it ultra space-eff
 | Version | 1.0 |
 | Designer | BlainLeVilain |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=US7611299379098d) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=collapsible+tpu+bottle+600ml) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

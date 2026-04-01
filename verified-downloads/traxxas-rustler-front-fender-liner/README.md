@@ -15,7 +15,7 @@ Got sick of how the front tires on my Traxxas Rustler VXL 4x4 dump everything th
 | Version | 1.0 |
 | Designer | DoctaWubbles |
 | Source / Origin | MakerWorld |
-| Published URL | [View on MakerWorld](https://makerworld.com/en/search/models?keyword=USe7477a1151dcf2) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=traxxas+rustler+front+fender+liner) |
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |
