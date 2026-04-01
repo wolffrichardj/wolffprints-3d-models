@@ -1,0 +1,40 @@
+# Mini Banana Buddy
+
+## Description
+
+**Boost me if you like my design! Thank you!**
+
+Meet **Mini Banana Buddy**, the tiniest and cutest banana companion! 🍌✨
+
+✅ **Adorable & Tiny Design** – A fun and playful desk buddy, shelf item, or collectible. Designed by 'fifindr', it is lightweight (approx. 0.3g) and prints in just a few minutes!
+
+## Details
+
+| Field | Value |
+|---|---|
+| Category | verified-downloads |
+| Version | 1.0 |
+| Designer | fifindr |
+| Source / Origin | MakerWorld |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=mini+banana+buddy) |<br>Deep Link: [https://makerworld.com/en/models/1124459-mini-banana-buddy](https://makerworld.com/en/models/1124459-mini-banana-buddy)
+| License | Standard Digital File License |
+| MakerWorld origin tag | original |
+| Status | Downloaded / verified |
+
+## File inventory
+
+| File | Description |
+|---|---|
+| `MiniBananaBuddy.3mf` | Bambu Studio project file (print-ready) |
+
+## Changes made
+
+N/A — downloaded as-is.
+
+## Printing notes
+
+
+
+## Assembly / use notes
+
+
