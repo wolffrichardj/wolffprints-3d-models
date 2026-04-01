@@ -35,4 +35,4 @@ No specific notes recorded. Refer to the source page for recommended settings.
 
 ## Assembly / use notes
 
-No assembly notes recorded.
+

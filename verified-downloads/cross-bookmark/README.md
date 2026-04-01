@@ -45,8 +45,8 @@ N/A — downloaded as-is.
 
 ## Printing notes
 
-No specific notes recorded. Refer to the designer's MakerWorld page for recommended settings.
+
 
 ## Assembly / use notes
 
-No assembly notes recorded.
+

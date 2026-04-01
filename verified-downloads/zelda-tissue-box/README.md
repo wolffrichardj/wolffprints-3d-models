@@ -2,27 +2,8 @@
 
 ## Description
 
-2025.04.09
-
-&nbsp;
-
-请注意，A1打印机会出现切片支撑过多的情况，会造成难以拆除支撑的问题；请手动修改此模型的支撑参数！
-
-&nbsp;
-
-——————————————————————————————————————————————————
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-此模型是按照《塞尔达：旷野之息》里的怪物宝箱外观设计的纸巾盒，内部可容纳150mm*100mm*55mm大小的抽纸巾；特点是用藏在底部的钥匙点亮眼睛内的Led灯。
-
-&nbsp;
-
-可以使用拓竹A1 m...
+A stylized, monster treasure chest tissue box design.
+Features a mechanism using a hidden key in the base to light up LED eyes. This is the **Zelda tissue box by UniPrintLab**.
 
 ## Details
 
@@ -49,8 +30,8 @@ N/A — downloaded as-is.
 
 ## Printing notes
 
-No specific notes recorded. Refer to the designer's MakerWorld page for recommended settings.
+
 
 ## Assembly / use notes
 
-No assembly notes recorded.
+

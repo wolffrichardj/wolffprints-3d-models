@@ -4,11 +4,9 @@
 
 **Boost me if you like my design! Thank you!**
 
-Boost MeBoost = 43 g of filament :)Meet **Mini Banana Buddy**, the tiniest and cutest banana companion! 🍌✨
+Meet **Mini Banana Buddy**, the tiniest and cutest banana companion! 🍌✨
 
-&nbsp;
-
-✅ **Adorable &amp; Tiny Design** – A fun and playful desk bud...
+✅ **Adorable & Tiny Design** – A fun and playful desk buddy, shelf item, or collectible. Designed by 'fifindr', it is lightweight (approx. 0.3g) and prints in just a few minutes!
 
 ## Details
 
@@ -35,8 +33,8 @@ N/A — downloaded as-is.
 
 ## Printing notes
 
-No specific notes recorded. Refer to the designer's MakerWorld page for recommended settings.
+
 
 ## Assembly / use notes
 
-No assembly notes recorded.
+
