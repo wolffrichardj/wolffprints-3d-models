@@ -2,7 +2,7 @@
 
 ## Description
 
-A print-in-place fidget cube with angled edges and 3 textures. Precisely engineered for smooth movement straight off the print bed. Does not require any support or assembly!
+A fidget cube that prints in place and features angled faces for a unique tactile experience. No supports needed. It's a great desk toy for focus and stress relief. Recommended layer height of 0.2mm for smooth operation of the internal mechanism.
 
 ## Details
 
@@ -12,7 +12,7 @@ A print-in-place fidget cube with angled edges and 3 textures. Precisely enginee
 | Version | 1.0 |
 | Designer | Austin Vojta |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=fidget+cube+toy+angled) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=fidget+cube+toy+angled) |<br>Deep Link: [https://makerworld.com/en/models/65426-fidget-cube-toy-angled](https://makerworld.com/en/models/65426-fidget-cube-toy-angled)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

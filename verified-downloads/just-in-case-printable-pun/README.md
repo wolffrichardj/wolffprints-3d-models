@@ -2,19 +2,7 @@
 
 ## Description
 
-This printable gag is a brilliant pun you can hold on to or share with your friends - just in case!
-
-&nbsp;
-
-The design aims to look like a tiny tool case. It prints in place with a moving hinge and handle.
-
-&nbsp;
-
-A super quick print and fun print, guaranteed to get groans and laughs from your family, friends, and workmates!
-
-&nbsp;
-
-**UPDATE: **You asked for it, now it&#39;s here! Click here to get a ...
+It's a literal "Just in case"! A small case with the word "JUST" printed on the top. When you give it to someone and say "Just in case", they open it to find... exactly what you said. A funny and clever print-in-place model with a functional hinge. Perfect for office pranks or as a small gift.
 
 ## Details
 
@@ -24,7 +12,7 @@ A super quick print and fun print, guaranteed to get groans and laughs from your
 | Version | 1.0 |
 | Designer | i3Dprint |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=just+in+case+printable+pun) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=just+in+case+printable+pun) |<br>Deep Link: [https://makerworld.com/en/models/795148-just-in-case-printable-pun](https://makerworld.com/en/models/795148-just-in-case-printable-pun)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

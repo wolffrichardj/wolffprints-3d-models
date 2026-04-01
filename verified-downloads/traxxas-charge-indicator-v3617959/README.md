@@ -2,7 +2,7 @@
 
 ## Description
 
-Downloaded from MakerWorld.
+A handy indicator for keeping track of your Traxxas battery charge levels. Features red and green sliders to clearly mark whether a battery is charged or discharged. Fits standard Traxxas battery boxes and connectors. A simple but effective organization tool for RC hobbyists.
 
 ## Details
 
@@ -12,7 +12,7 @@ Downloaded from MakerWorld.
 | Version | 1.0 |
 | Designer | Unknown |
 | Source / Origin | MakerWorld |
-| Published URL | — |
+| Published URL | — |<br>Deep Link: [https://makerworld.com/en/models/361795-traxxas-battery-charge-indicator](https://makerworld.com/en/models/361795-traxxas-battery-charge-indicator)
 | License | See source |
 | MakerWorld origin tag | — |
 | Status | Downloaded / verified |

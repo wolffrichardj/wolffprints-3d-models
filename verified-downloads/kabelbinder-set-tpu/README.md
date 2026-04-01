@@ -2,13 +2,7 @@
 
 ## Description
 
-Boost MeWenn Ihnen meine Arbeit gefällt, hinterlassen Sie bitte einen Daumen hoch! Ein Boost wird nie erwartet, aber immer geschätzt!&nbsp;
-
-&nbsp;
-
-Diese praktischen **3D-gedruckten Kabelbinder** in verschiedenen Längen sind wiederverwendbar, flexibel und ideal zum Bündeln von Ladekabeln, Kopfhörern oder anderen Kabeln. Durch das einfache Stecksystem lassen sie sich schnell anpassen und sicher fixieren. Perfekt für Ordnung am Schreibtisch, im Haushalt oder unterwegs.
-
-✅ Leicht zu drucken<b...
+Reusable and flexible cable ties printed in TPU. This set includes four different lengths, perfect for bundling charging cables, headphones, or other household cords. The simple interlocking system allows for quick adjustment and secure fastening without the need for extra materials.
 
 ## Details
 
@@ -18,7 +12,7 @@ Diese praktischen **3D-gedruckten Kabelbinder** in verschiedenen Längen sind wi
 | Version | 1.0 |
 | Designer | KK Print |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=kabelbinder+set+tpu) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=kabelbinder+set+tpu) |<br>Deep Link: [https://makerworld.com/en/models/1641979-cable-tie-set-tpu](https://makerworld.com/en/models/1641979-cable-tie-set-tpu)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

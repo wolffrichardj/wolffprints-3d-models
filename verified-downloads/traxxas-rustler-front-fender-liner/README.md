@@ -2,10 +2,7 @@
 
 ## Description
 
-Got sick of how the front tires on my Traxxas Rustler VXL 4x4 dump everything they kick up directly into the electronics tray. Came up with the idea to make a fender liner to help keep the insides clean while still maintaining airflow. Uses a couple M3 screws to hold it into place. 
-** The battery latch needs to be trimmed slightly to be able to clear the fender. I just trimmed a few mm off the arm with some wire snips until i could get it to open and close, still holds the pack just the same. 
-
-
+Protect the electronics of your Traxxas Rustler VXL 4x4 from debris kicked up by the front tires. This fender liner keeps the chassis clean while maintaining essential airflow. It installs easily using M3 screws and prevents dirt and water from accumulating in the electronics tray.
 
 ## Details
 
@@ -15,7 +12,7 @@ Got sick of how the front tires on my Traxxas Rustler VXL 4x4 dump everything th
 | Version | 1.0 |
 | Designer | DoctaWubbles |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=traxxas+rustler+front+fender+liner) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=traxxas+rustler+front+fender+liner) |<br>Deep Link: [https://makerworld.com/en/models/232071-traxxas-rustler-front-fender-liner](https://makerworld.com/en/models/232071-traxxas-rustler-front-fender-liner)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

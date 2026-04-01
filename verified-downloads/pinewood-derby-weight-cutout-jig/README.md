@@ -2,12 +2,7 @@
 
 ## Description
 
-Looking for an easy and accurate way to drill weight holes in your Kub Kar or Pinewood Derby car? This Weight Cutout Jig makes the process safer, faster, and more precise, ensuring your car is properly balanced for optimal performance!
- 
-
-Our **Kub Kar consistently achieves race times between 2.719 and 2.803 seconds**, reaching speeds of up to **250 km/h (155 mph)!** 🏎️💨
-
-**⚠️ Important Safety Note****Power tools should only be used by adults!** Kids should only operate tools under direct parental supervisio...
+This jig helps you cut out the perfect weight cavity for your Pinewood Derby car. It fits standard tungsten weights and ensures a precise, professional finish. Designed for use with a router or chisel to create a clean pocket for weight placement.
 
 ## Details
 
@@ -17,7 +12,7 @@ Our **Kub Kar consistently achieves race times between 2.719 and 2.803 seconds**
 | Version | 1.0 |
 | Designer | Rixky |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+weight+cutout+jig) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=pinewood+derby+weight+cutout+jig) |<br>Deep Link: [https://makerworld.com/en/models/1193976-pinewood-derby-weight-cutout-jig](https://makerworld.com/en/models/1193976-pinewood-derby-weight-cutout-jig)
 | License | BY-NC-ND |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

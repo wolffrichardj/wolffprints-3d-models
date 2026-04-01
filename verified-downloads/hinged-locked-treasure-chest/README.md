@@ -2,17 +2,7 @@
 
 ## Description
 
-Boost MeHoist me up, ye scallywag! There be treasure in this here print. &nbsp;
-
-I wanted to find a good test for Bambu Labs new Wood PLA. I searched for a good treasure box, and found this one on GitHub by DrLex0.
-
-&nbsp;
-
-https://github.com/DrLex0/print3D-hinged-locked-treasure-chest
-
-&nbsp;
-
-Its quick printing and the loc...
+A hinged treasure chest with an integrated locking mechanism that prints as a single piece. No assembly or supports required. The lock is functional and adds a fun element to this decorative storage box. Ideal for small items, trinkets, or as a gift container.
 
 ## Details
 
@@ -22,7 +12,7 @@ Its quick printing and the loc...
 | Version | 1.0 |
 | Designer | BrianM801 |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=hinged+locked+treasure+chest) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=hinged+locked+treasure+chest) |<br>Deep Link: [https://makerworld.com/en/models/910440-hinged-locked-treasure-chest](https://makerworld.com/en/models/910440-hinged-locked-treasure-chest)
 | License | BY-NC-SA |
 | MakerWorld origin tag | remix |
 | Status | Downloaded / verified |

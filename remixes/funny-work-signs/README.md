@@ -2,8 +2,7 @@
 
 ## Description
 
-*Note If you like a sign, you can check the menu to see which plate it&#39;s on! Each sign is placed on a different plate, so you can find the exact one you want
-💼 Work just got a whole lot more fun! These quirky, customizable desk signs are the perfect way to add some personality to your workspace. Whether you&#39;re claiming your desk, throwing in some office humor, or gifting a coworker, these print-fast signs are a must-have! ⚡ Plus, they’re guaranteed to spark some laughs (or at least a smirk from your boss 😆)!
+A collection of quirky and customizable desk signs to add personality to your workspace. Includes various designs like "Work just got a whole lot more fun!" and "Meeting in progress". Each sign is placed on a separate plate for easy selection and printing. No supports needed.
 
 ## Details
 
@@ -13,7 +12,7 @@
 | Version | 1.0 |
 | Designer | Print in place |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=funny+work+signs) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=funny+work+signs) |<br>Deep Link: [https://makerworld.com/en/models/1166177-funny-work-signs](https://makerworld.com/en/models/1166177-funny-work-signs)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |

@@ -2,11 +2,7 @@
 
 ## Description
 
-Coaster is 97mm diameter, 4mm thick. Print on textured plate face down. 0.4 nozzle, Wall generation Arachne, PLA, AMS. NOTE: I do not own the rights to the logo in this model, and it is designed as fan art. Very easy to change colors if using AMS synch whatever you have in and update the colors in Process / Objects tab.
-
-&nbsp;
-
-
+A humorous coaster or desk sign featuring the classic phrase "This meeting could have been an email". The coaster is 97mm in diameter and 4mm thick. Optimized for printing on a textured plate face-down for a professional finish. Multi-color compatible via AMS.
 
 ## Details
 
@@ -16,7 +12,7 @@ Coaster is 97mm diameter, 4mm thick. Print on textured plate face down. 0.4 nozz
 | Version | 1.0 |
 | Designer | mipmay3D |
 | Source / Origin | MakerWorld |
-| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=couldve+been+an+email) |
+| Published URL | [Search on MakerWorld](https://makerworld.com/en/search/models?keyword=couldve+been+an+email) |<br>Deep Link: [https://makerworld.com/en/models/2125356-could-ve-been-an-email](https://makerworld.com/en/models/2125356-could-ve-been-an-email)
 | License | Standard Digital File License |
 | MakerWorld origin tag | original |
 | Status | Downloaded / verified |
