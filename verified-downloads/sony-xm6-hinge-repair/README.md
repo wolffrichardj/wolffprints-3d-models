@@ -23,3 +23,7 @@ External reinforcement for the broken support ring at the headband extension sle
 `images/plate_1.png` and `plate_no_light_1.png`: native Bambu model render of the actual paired project, not printed-product photos. `creator-installed-reference.png`: captured source gallery image 3, Viktor's installed example under the source CC BY 4.0 attribution; hardware/print revision can differ. `source-model-thumbnail.png`: creator source preview. Any generated installation illustration is explicitly labeled as AI illustration and must not be presented as real test evidence.
 
 No buyer, order, account-access or printer credentials belong in this model archive. The unpublished eBay draft and stock/publication gates are tracked privately in Richard's vault.
+
+## Kit and guide update
+
+Richard confirmed two M2 × 20mm bolts are available for the first trial kit. Retail plan is **two PETG clamps + two bolts**, with **assembly required; tools and headphones not included**. User will test the parts and bolts before publication. Do not specify a bolt drive style or Allen-key size without verification. Current three-step listing guide is `images/installation-illustration-kit-ai.png`; it labels its AI origin and includes the bolts. The earlier `installation-illustration-ai.png` is a superseded clamps-only draft and must not be used for the kit listing. Neither illustration is physical fit or durability evidence.
