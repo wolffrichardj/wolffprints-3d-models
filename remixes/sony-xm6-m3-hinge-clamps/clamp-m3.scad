@@ -4,7 +4,8 @@
 // Entire original curved body, collar opening, slot and recesses retained.
 // Only change: enlarge coaxial ~1.965 mm holes to 3.4 mm clearance.
 // M3 head/nut do NOT fit inside original recesses. Trial external hardware
-// with flat washers spanning recesses; seating and length need a hand test.
+// with flat washers spanning recesses. Richard selected M3 x 12 mm
+// screws for the full kit on 2026-10-18; detailed installed assembly unrecorded.
 $fn=96;
 pair=false;
 bore_d=3.4;
