@@ -1,0 +1,15 @@
+{
+  "native_app": "BambuStudio-02.08.02.61",
+  "final_version": "original-shape bore-only",
+  "native_opened": true,
+  "native_sliced": true,
+  "native_saved_as": true,
+  "warning_banner_observed": false,
+  "time_seconds": 1077,
+  "filament_grams": 3.5,
+  "layers": 41,
+  "stl_3mf_mesh_match": true,
+  "printed": false,
+  "physical_fit_tested": false,
+  "hardware_seating_tested": false
+}

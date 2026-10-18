@@ -1,0 +1,80 @@
+{
+  "status": "minimal bore-only digital prototype; external hardware seating and headphone fit pending",
+  "single": {
+    "vertices": 3916,
+    "triangles": 7836,
+    "shells": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "bounds_mm": [
+      [
+        -14.7952,
+        -10.2572,
+        0.0
+      ],
+      [
+        14.7952,
+        10.2572,
+        8.25
+      ]
+    ],
+    "dimensions_mm": [
+      29.5904,
+      20.5144,
+      8.25
+    ],
+    "signed_volume_mm3": 1453.4849346718784
+  },
+  "pair": {
+    "vertices": 7832,
+    "triangles": 15672,
+    "shells": 2,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "bounds_mm": [
+      [
+        -34.7952,
+        -10.2572,
+        0.0
+      ],
+      [
+        34.7952,
+        10.2572,
+        8.25
+      ]
+    ],
+    "dimensions_mm": [
+      69.5904,
+      20.5144,
+      8.25
+    ],
+    "signed_volume_mm3": 2906.969901940823
+  },
+  "fastener_geometry_mm": {
+    "shaft_clearance_diameter": 3.4,
+    "original_recess_diameter_unchanged": 5.05,
+    "source_slot_width_unchanged": 2.86,
+    "bolt_axis_xz_unchanged": [
+      11.278,
+      4.525
+    ]
+  },
+  "planned_hardware_per_pair": "Trial 2 M3 x 18 socket-head screws + 2 plain M3 nuts + 4 flat M3 washers, with head/nut outside original recesses. Actual washer dimensions, seating and final bolt length unverified. Kit labels show these parts available.",
+  "length_estimate_mm": {
+    "sampled_contact_span_for_7mm_washers": 12.382,
+    "assumed_two_washers_total": 1.1,
+    "nominal_plain_nut_thickness": 2.4,
+    "estimated_thread_beyond_nut_with_18mm_bolt_open": 2.118
+  },
+  "fit_preservation": "Only subtract a 3.4 mm cylinder on the original bolt axis. No added material, body scaling, collar modification, head/nut pocket change, or external shape change.",
+  "limitations": [
+    "Original recess does not accept a recessed standard M3 socket head or M3 nut.",
+    "Flat washers must span original recesses. Curved seating may rock or contact unevenly; must be hand-tested before accepting kit design.",
+    "Do not force M3 bolts into original M2 prints.",
+    "Digital slicing is not a load, endurance, hardware or headphone fit test."
+  ]
+}
