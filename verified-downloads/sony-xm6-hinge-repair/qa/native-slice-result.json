@@ -1,0 +1,76 @@
+{
+    "error_string": "Success.",
+    "export_time": 78,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 1,
+    "prepare_time": 50,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Custom": 362.4650573730469,
+                "Flush": 29.0,
+                "Gap infill": 79.11141967773438,
+                "Inner wall": 246.7748260498047,
+                "Internal solid infill": 7.110045909881592,
+                "Outer wall": 190.83294677734375,
+                "Overhang wall": 17.58778190612793,
+                "Top surface": 31.581758499145508,
+                "Travel": 124.08412170410156,
+                "Undefined": 108.74781799316406
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFG99",
+                    "id": 1,
+                    "main_used_g": 3.5513763427734375,
+                    "total_used_g": 3.5513763427734375
+                }
+            ],
+            "generate_support_material_time": 35,
+            "id": 1,
+            "infill_time": 41,
+            "layer_filament_change": 0,
+            "main_predication": 668.1051025390625,
+            "make_perimeters_time": 188,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 20.51446533203125,
+                        "height": 8.25,
+                        "width": 69.59043884277344,
+                        "x": 93.20478057861328,
+                        "y": 117.74276733398438,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "XM6 Rev3 Hinge Clamps - Pair",
+                    "triangle_count": 14616
+                }
+            ],
+            "sliced_time": 517,
+            "sliced_time_with_cache": 229,
+            "total_predication": 1073.2032470703125,
+            "triangle_count": 14616,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 99.0,
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 4
+}

@@ -1,0 +1,76 @@
+{
+    "error_string": "Success.",
+    "export_time": 80,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 1,
+    "prepare_time": 40,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Custom": 362.3863220214844,
+                "Flush": 29.0,
+                "Gap infill": 79.51261138916016,
+                "Inner wall": 245.7783660888672,
+                "Internal solid infill": 6.895078182220459,
+                "Outer wall": 193.8649139404297,
+                "Overhang wall": 16.909992218017578,
+                "Top surface": 31.562997817993164,
+                "Travel": 127.32219696044922,
+                "Undefined": 112.06458282470703
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFG99",
+                    "id": 1,
+                    "main_used_g": 3.5043962001800537,
+                    "total_used_g": 3.5043962001800537
+                }
+            ],
+            "generate_support_material_time": 34,
+            "id": 1,
+            "infill_time": 38,
+            "layer_filament_change": 0,
+            "main_predication": 672.8677978515625,
+            "make_perimeters_time": 147,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 20.514402389526367,
+                        "height": 8.25,
+                        "width": 69.59039306640625,
+                        "x": 93.20480346679688,
+                        "y": 117.7427978515625,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "XM6 M3 Prototype - Pair",
+                    "triangle_count": 15672
+                }
+            ],
+            "sliced_time": 475,
+            "sliced_time_with_cache": 232,
+            "total_predication": 1077.9659423828125,
+            "triangle_count": 15672,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 99.0,
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 4
+}

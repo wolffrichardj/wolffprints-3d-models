@@ -1,0 +1,93 @@
+{
+  "status": "Retained original-shape M3 kit; printed pair and bolt/nut assembly photographed; actual-headphone fit/endurance not documented",
+  "single": {
+    "vertices": 3916,
+    "triangles": 7836,
+    "shells": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "bounds_mm": [
+      [
+        -14.7952,
+        -10.2572,
+        0.0
+      ],
+      [
+        14.7952,
+        10.2572,
+        8.25
+      ]
+    ],
+    "dimensions_mm": [
+      29.5904,
+      20.5144,
+      8.25
+    ],
+    "signed_volume_mm3": 1453.4849346718784
+  },
+  "pair": {
+    "vertices": 7832,
+    "triangles": 15672,
+    "shells": 2,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistent_winding_edges": 0,
+    "degenerate_triangles": 0,
+    "bounds_mm": [
+      [
+        -34.7952,
+        -10.2572,
+        0.0
+      ],
+      [
+        34.7952,
+        10.2572,
+        8.25
+      ]
+    ],
+    "dimensions_mm": [
+      69.5904,
+      20.5144,
+      8.25
+    ],
+    "signed_volume_mm3": 2906.969901940823
+  },
+  "fastener_geometry_mm": {
+    "shaft_clearance_diameter": 3.4,
+    "original_recess_diameter_unchanged": 5.05,
+    "source_slot_width_unchanged": 2.86,
+    "bolt_axis_xz_unchanged": [
+      11.278,
+      4.525
+    ]
+  },
+  "planned_hardware_per_pair": "Confirmed by Richard October 18, 2026: 2 black M3 x 12 socket-head bolts, 2 M3 nuts, no washers.",
+  "fit_preservation": "Only subtract a 3.4 mm cylinder on the original bolt axis. No added material, body scaling, collar modification, head/nut pocket change, or external shape change.",
+  "limitations": [
+    "Original recess does not accept a recessed standard M3 socket head or M3 nut.",
+    "Bolt head and nut seat outside the original recesses; verify seating and full thread engagement with gentle tightening.",
+    "Do not force M3 bolts into original M2 prints.",
+    "Digital slicing is not a load, endurance, hardware or headphone fit test."
+  ],
+  "historical_length_estimate_superseded": {
+    "sampled_contact_span_for_7mm_washers": 12.382,
+    "assumed_two_washers_total": 1.1,
+    "nominal_plain_nut_thickness": 2.4,
+    "estimated_thread_beyond_nut_with_18mm_bolt_open": 2.118
+  },
+  "hardware_selection": {
+    "bolt": "M3 x 12 mm",
+    "bolts_per_pair": 2,
+    "source": "Richard user confirmation October 18, 2026",
+    "supersedes": [
+      "provisional M3 x 18",
+      "M3 x 10 recessed-kit proposal",
+      "M2 x 20 source hardware"
+    ],
+    "nuts_per_pair": 2,
+    "washers_per_pair": 0,
+    "assembly_evidence": "Richard explicit nut/no-washers confirmation and actual printed-kit photos October 18, 2026"
+  }
+}

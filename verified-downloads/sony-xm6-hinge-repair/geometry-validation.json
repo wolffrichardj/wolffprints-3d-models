@@ -1,0 +1,33 @@
+{
+  "source": "Viktor Printables 1465791 rev3",
+  "vertices": 3652,
+  "triangles": 7308,
+  "dimensions_mm": [
+    29.590439999999997,
+    20.514465,
+    8.25
+  ],
+  "bounds_mm": [
+    [
+      16.925,
+      -10.259219,
+      -0.8
+    ],
+    [
+      46.51544,
+      10.255246,
+      7.45
+    ]
+  ],
+  "boundary_or_nonmanifold_edges": 0,
+  "inconsistently_oriented_edges": 0,
+  "degenerate_triangles": 0,
+  "connected_components": 1,
+  "signed_volume_mm3": 1472.884838641442,
+  "exports": {
+    "single_stl_triangles": 7308,
+    "pair_stl_triangles": 14616,
+    "pair_instances": 2,
+    "intentional_geometry_changes": "None; translation only, 1:1 source scale."
+  }
+}
