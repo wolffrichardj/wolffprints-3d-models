@@ -11,3 +11,7 @@ Footer: "Assembly required • Hex key not included • Headphones not included"
 Bottom disclosure: "AI installation illustration • Not a product photo • Not to scale".
 Attribution: "Clamp design: Viktor / Printables • CC BY 4.0 • M3 adaptation: Wolff Prints".
 Preserve accurate ring placement at the sleeve ends above the earcup yokes. Make small text legible. Do not claim repair strength, heatproof performance, universal fit or tested installation. Do not add inventory contents beyond confirmed pair and M3x12 bolt size.
+
+
+User-requested footer cleanup, October 18, 2026 (built-in imagegen edit):
+Change only the bottom-right footer cell, approximately x=802 through right edge and y=1184 through bottom of the 1254×1254 image. Remove all credit/licensing/adaptation text. Fill it with matching dark footer background and leave the area empty. Keep left separator, footer band, all panels, M3×12 labels, lower-left AI disclosure and middle assembly/tools/headphone exclusions unchanged. Do not move/reflow text or redesign.
