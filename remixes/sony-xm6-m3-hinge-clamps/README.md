@@ -4,7 +4,7 @@ Original design: **Viktor (@Viktor_2298956)**, [Sony XM6 headphone hinge repair]
 
 ## Retained kit version
 
-**This is the selected version to keep and prepare for sale.** Use `XM6_M3_Pair_Black_PETG_P1S_Prototype.3mf` for one paired kit per print, or `XM6_M3_Pair_Prototype.stl` for the paired mesh. Existing filenames are retained for stable references. The original M2 files are historical source material, not the current kit. Listing remains a draft pending the checks below.
+**This is the selected version to keep and prepare for sale.** Use `XM6_M3_Pair_Black_PETG_P1S_Prototype.3mf` for one paired kit per print, or `XM6_M3_Pair_Prototype.stl` for the paired mesh. Existing filenames are retained for stable references. The original M2 files are historical source material, not the current kit. The paired physical kit is listed on [eBay, item 147641809076](https://www.ebay.com/itm/147641809076), published October 18, 2026.
 
 ## What changed
 
@@ -18,7 +18,7 @@ On October 18, 2026 Richard reported the result was great and selected **M3×12 
 
 The complete original curved body and recesses are retained. The M3 shaft clearances are 3.4 mm. [Standard M3 socket heads are 5.5 mm across](https://www.accu.co.uk/metric-cap-head-screws/10638-SSC-M3-55-A2), so they do not fully recess in the original 5.05 mm pockets. Standard plain nuts are [5.5 mm across flats / 2.4 mm thick](https://www.accu.co.uk/hexagon-nuts/7888-HPN-M3-A2). These are reference specifications, not measurements of Richard's hardware. The earlier M3×18 recommendation came from an unverified open-clamp stack estimate; the user's M3×12 selection is now authoritative for kit preparation.
 
-Richard's positive result and hardware selection do not by themselves document installation on actual headphones or a load/endurance test. Before retail release, confirm stable bolt/nut seating, full nut engagement, headphone movement and actual packed shipment measurements. Tighten gently; do not force M3 bolts into the previous M2 prints.
+Richard's positive result and hardware selection do not by themselves document installation on actual headphones or a load/endurance test. For assembly, check stable bolt/nut seating, full nut engagement and headphone movement. Weigh and measure the packed shipment before purchasing a label. Tighten gently; do not force M3 bolts into the previous M2 prints.
 
 ## Print one retained M3 pair
 
@@ -26,7 +26,7 @@ Open `XM6_M3_Pair_Black_PETG_P1S_Prototype.3mf`: **two clamps on one plate**, on
 
 Single STL: 3,916 vertices / 7,836 triangles, one shell. Pair STL: 15,672 triangles, two shells. Both have zero boundary/nonmanifold edges, inconsistent-winding edges or degenerate triangles. See `qa/geometry-validation.json`. Digital checks do not validate hardware seating, clamp strength or headphone fit. **M3 pair dispatched October 18 at 17:54 CDT, black PETG AMS A2, bed leveling on and timelapse off; printer accepted and entered preparation. Richard subsequently reported a positive result and selected M3×12 hardware.** The previously dispatched M2 pair separately showed Finished, 41/41 layers, in Bambu on October 18.
 
-Files: editable SCAD, single STL, paired STL, native paired PETG 3MF, QA records, actual CAD/native previews and SHA256SUMS. Actual printed-product photos are now retained in `images/product-top-view.jpg` and `images/product-angled-view.jpg`; one clamp is assembled with bolt/nut and the other hardware set is shown loose. These document the printed pair and fastening arrangement, not installation on headphones. Keep unpublished until headphone fit checks and packed shipping measurements are complete. Earlier M2 listing graphics/copy must be replaced before sale.
+Files: editable SCAD, single STL, paired STL, native paired PETG 3MF, QA records, actual CAD/native previews and SHA256SUMS. Actual printed-product photos are now retained in `images/product-top-view.jpg` and `images/product-angled-view.jpg`; one clamp is assembled with bolt/nut and the other hardware set is shown loose. These document the printed pair and fastening arrangement, not installation on headphones. The live listing uses these actual photos first, followed by the credited creator placement reference and clearly labeled M3 guide. It excludes tools/headphones and makes no endurance-test claim. Earlier M2 copy and graphics are historical only.
 
 
 ## M3 × 12 mm illustrated quick guide
