@@ -23,3 +23,10 @@ Open `XM6_M3_Pair_Black_PETG_P1S_Prototype.3mf`: **two clamps on one plate**, on
 Single STL: 3,916 vertices / 7,836 triangles, one shell. Pair STL: 15,672 triangles, two shells. Both have zero boundary/nonmanifold edges, inconsistent-winding edges or degenerate triangles. See `qa/geometry-validation.json`. Digital checks do not validate hardware seating, clamp strength or headphone fit. **M3 pair dispatched October 18 at 17:54 CDT, black PETG AMS A2, bed leveling on and timelapse off; printer accepted and entered preparation. Richard subsequently reported a positive result and selected M3×12 hardware.** The previously dispatched M2 pair separately showed Finished, 41/41 layers, in Bambu on October 18.
 
 Files: editable SCAD, single STL, paired STL, native paired PETG 3MF, QA records, actual CAD/native previews and SHA256SUMS. Keep unpublished until hardware and headphone testing, actual product photos and packed shipping measurements are complete. Earlier M2 listing graphics/copy must be replaced before sale.
+
+
+## M3 × 12 mm illustrated quick guide
+
+Current guide: `images/installation-guide-m3x12-ai.png`, generated with the built-in imagegen tool from the earlier guide, final M3 clamp CAD preview and creator's installed reference. Exact generation prompt retained in `images/guide-m3x12-prompt.txt`. Three steps: check the sleeve-end support ring, position the original curved clamp, fit one M3×12 bolt per clamp and tighten gently/check movement. Black socket heads; assembly required; hex key and headphones excluded. Clearly labeled **AI illustration, not a product photo, not to scale**, with Viktor / Printables / CC BY 4.0 attribution and Wolff Prints M3 adaptation credit.
+
+Guide intentionally does not depict the rear nut/washer arrangement, which is awaiting clarification from Richard. It does not establish physical installation or durability. Old M2 guides remain historical assets only and must not be used for this M3 kit.

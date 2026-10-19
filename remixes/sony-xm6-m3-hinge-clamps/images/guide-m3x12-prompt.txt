@@ -1,0 +1,13 @@
+Use case: precise-object-edit / infographic-diagram.
+Edit target: prior square WH-1000XM6 M2 quick assembly guide.
+References: original-shape M3 clamp CAD for exact curved shape; creator installed photograph for placement at bottom of headband extension sleeves.
+Replace all M2 x 20 mm hardware text with M3 x 12 mm. Retain a clean white, black and teal square technical illustration layout with three numbered panels. Keep original curved ring/lug shape; no block-shaped tabs or round bosses. The visible bolt heads must be BLACK SOCKET CAP heads, with a visible hex socket and sitting proud of the old recess. No silver button heads. Do not invent wires, disassembly steps, glue or a complete replacement hinge. Rear hardware is not depicted; do not imply the bolt threads directly into PETG or a nut. This guide is schematic, not to scale and is not a verified fit photograph.
+Exact headline: "WH-1000XM6" and "HINGE RING REPAIR".
+Subtitle: "2-clamp PETG kit • M3 × 12 mm hardware".
+Panel 1: "CHECK THE RING". Caption: "Check the support ring at the bottom of the headband sleeve for cracks or damage."
+Panel 2: "POSITION THE CLAMP". Caption: "Place the clamp around the affected ring. Align the two screw lugs."
+Panel 3: "TIGHTEN GENTLY". Caption: "Fit one M3 × 12 mm bolt per clamp. Tighten gently; never force the fit. Check movement before use."
+Footer: "Assembly required • Hex key not included • Headphones not included".
+Bottom disclosure: "AI installation illustration • Not a product photo • Not to scale".
+Attribution: "Clamp design: Viktor / Printables • CC BY 4.0 • M3 adaptation: Wolff Prints".
+Preserve accurate ring placement at the sleeve ends above the earcup yokes. Make small text legible. Do not claim repair strength, heatproof performance, universal fit or tested installation. Do not add inventory contents beyond confirmed pair and M3x12 bolt size.
