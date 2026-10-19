@@ -2,7 +2,9 @@
 
 Design: **Viktor (@Viktor_2298956)**, [Sony XM6 headphone hinge repair](https://www.printables.com/model/1465791-sony-xm6-headphone-hinge-repair), **CC BY 4.0** ([license](https://creativecommons.org/licenses/by/4.0/)). Original source Rev3 retained unchanged in `source/`. Commercial use verified on source page October 18, 2026. No endorsement implied.
 
-## Print one pair
+> **Historical M2 source/archive:** the retained retail-trial version is the [original-shape M3 kit](../../remixes/sony-xm6-m3-hinge-clamps/), using two M3×12 bolts and two nuts, without washers. Use its paired STL/3MF for the current kit. The original files and M2 instructions below are preserved for provenance.
+
+## Print one original M2 pair
 
 Open `XM6_Hinge_Repair_Pair_Black_PETG_P1S.3mf` in Bambu Studio and slice. It contains **two clamps on one plate**, as two disconnected shells of one object. One run = one pair. The single and pair STLs are retained at millimeter scale. Changes from source: geometry exported to STL, centered/grounded and duplicated by translation only; PETG/P1S setup added.
 
