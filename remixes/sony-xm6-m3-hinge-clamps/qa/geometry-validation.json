@@ -1,5 +1,5 @@
 {
-  "status": "original-shape M3 model; user reported positive result and selected M3 x 12 hardware; detailed installed assembly and endurance not documented",
+  "status": "Retained original-shape M3 kit; printed pair and bolt/nut assembly photographed; actual-headphone fit/endurance not documented",
   "single": {
     "vertices": 3916,
     "triangles": 7836,
@@ -63,11 +63,11 @@
       4.525
     ]
   },
-  "planned_hardware_per_pair": "2 black M3 x 12 socket-head screws selected by Richard October 18, 2026. Planned bundle: 2 plain M3 nuts + 4 flat M3 washers; exact installed nut/washer arrangement still to document.",
+  "planned_hardware_per_pair": "Confirmed by Richard October 18, 2026: 2 black M3 x 12 socket-head bolts, 2 M3 nuts, no washers.",
   "fit_preservation": "Only subtract a 3.4 mm cylinder on the original bolt axis. No added material, body scaling, collar modification, head/nut pocket change, or external shape change.",
   "limitations": [
     "Original recess does not accept a recessed standard M3 socket head or M3 nut.",
-    "Flat washers must span original recesses. Curved seating may rock or contact unevenly; must be hand-tested before accepting kit design.",
+    "Bolt head and nut seat outside the original recesses; verify seating and full thread engagement with gentle tightening.",
     "Do not force M3 bolts into original M2 prints.",
     "Digital slicing is not a load, endurance, hardware or headphone fit test."
   ],
@@ -85,6 +85,9 @@
       "provisional M3 x 18",
       "M3 x 10 recessed-kit proposal",
       "M2 x 20 source hardware"
-    ]
+    ],
+    "nuts_per_pair": 2,
+    "washers_per_pair": 0,
+    "assembly_evidence": "Richard explicit nut/no-washers confirmation and actual printed-kit photos October 18, 2026"
   }
 }
