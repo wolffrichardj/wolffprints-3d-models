@@ -1,0 +1,83 @@
+{
+  "verified_date": "2026-10-21",
+  "status": "Prepared for first physical prototype; fit not validated",
+  "geometry": {
+    "source_faces": 72066,
+    "native_faces": 72066,
+    "max_vertex_difference_mm_after_recentering": 1.956958008975107e-06,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "native_mesh_stat": {
+      "face_count": "72066",
+      "edges_fixed": "0",
+      "degenerate_facets": "0",
+      "facets_removed": "0",
+      "facets_reversed": "0",
+      "backwards_edges": "0"
+    }
+  },
+  "profile": {
+    "printer_settings_id": "Bambu Lab P1S 0.4 nozzle",
+    "filament_type": [
+      "PETG"
+    ],
+    "filament_settings_id": [
+      "Generic PETG"
+    ],
+    "filament_colour": [
+      "#2850E0"
+    ],
+    "layer_height": "0.24",
+    "initial_layer_print_height": "0.2",
+    "wall_loops": "3",
+    "sparse_infill_density": "25%",
+    "sparse_infill_pattern": "grid",
+    "support_type": "tree(auto)",
+    "support_on_build_plate_only": "1",
+    "support_top_z_distance": "0.24",
+    "support_bottom_z_distance": "0.24",
+    "nozzle_temperature": [
+      "255"
+    ],
+    "textured_plate_temp": [
+      "70"
+    ],
+    "filament_max_volumetric_speed": [
+      "12"
+    ],
+    "filament_flow_ratio": [
+      "0.95"
+    ],
+    "nozzle_temperature_initial_layer": [
+      "255"
+    ],
+    "textured_plate_temp_initial_layer": [
+      "70"
+    ]
+  },
+  "gui_slice": {
+    "minutes": 122,
+    "total_grams": 51.9,
+    "model_grams": 43.59,
+    "support_grams": 8.31,
+    "layers": 282
+  },
+  "native_gui": "Saved synchronized native project; slice completed without warning banner; line-type support preview reviewed.",
+  "independent_cli": {
+    "return_code": 0,
+    "error_string": "Success.",
+    "warning_message": "",
+    "seconds": 7314.0556640625,
+    "grams": 51.89598846435547
+  },
+  "preflight": {
+    "material": "Dark-blue PETG Basic NPETG019",
+    "mapping": "project filament 1 -> AMS A3, blue PETG",
+    "printer": "P1S 0.4 mm",
+    "bed": "Textured PEI; live camera showed clear plate",
+    "bed_leveling": true,
+    "timelapse": false
+  },
+  "print_dispatch": "not yet sent",
+  "physical_fit": "pending matching Kreg jig and Festool D27 hose test"
+}
