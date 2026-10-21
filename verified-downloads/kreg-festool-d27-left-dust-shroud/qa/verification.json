@@ -1,6 +1,6 @@
 {
   "verified_date": "2026-10-21",
-  "status": "Prepared for first physical prototype; fit not validated",
+  "status": "Dispatched first physical prototype; printer accepted and entered preparation; completion and fit not verified",
   "geometry": {
     "source_faces": 72066,
     "native_faces": 72066,
@@ -78,6 +78,14 @@
     "bed_leveling": true,
     "timelapse": false
   },
-  "print_dispatch": "not yet sent",
+  "print_dispatch": {
+    "date": "2026-10-21",
+    "approx_time": "11:32 CDT",
+    "accepted": true,
+    "observed_state": "0/282 layers; waiting for heatbed target 70 C",
+    "initial_estimated_finish": "13:34 CDT",
+    "completed": false,
+    "fit_verified": false
+  },
   "physical_fit": "pending matching Kreg jig and Festool D27 hose test"
 }

@@ -22,7 +22,7 @@ Final native slice: **2h02m / 51.90 g**, including **8.31 g support**, 282 layer
 
 On October 21, 2026, live printer check showed the previous job finished and a clear textured plate. A3 was verified as blue PETG. Send dialog correctly mapped project filament 1 to **AMS A3**, auto bed leveling on, timelapse off. Always recheck actual loaded material and assignment before another run; a saved project color is not proof of a physical slot.
 
-Dispatch: prepared; not yet sent at this commit.
+Dispatched **October 21, 2026 at about 11:32 CDT**, dark-blue PETG **AMS A3**, auto bed leveling on, timelapse off. Printer accepted the full job and entered preparation at **0/282 layers, waiting for the heatbed to reach 70°C**, with an initial estimated finish around **13:34 CDT**. Physical completion and fit are not yet verified.
 
 After cooling, remove supports carefully and check that retention features remain intact. Test the exact jig and hose without forcing either connection, check ordinary hose movement and vacuum flow, and capture installed photos before any sale trial. No universal-fit, dust-elimination, static-safety or heat-proof claim.
 
