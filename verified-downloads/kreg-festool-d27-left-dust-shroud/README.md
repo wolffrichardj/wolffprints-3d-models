@@ -2,6 +2,12 @@
 
 One dark-blue PETG test shroud for connecting the matching Kreg pocket-hole jig to a Festool D27 hose. Downloaded model with printer setup; geometry is unchanged apart from inch-to-millimeter conversion. **Prototype: physical jig retention, hose fit, support cleanup and useful airflow remain untested.** The folder category records a reviewed download, not a claim that physical fit is verified.
 
+## Reserve status — October 25, 2026
+
+Richard reported that the print failed. **Keep the STL, native 3MF, source and research in reserve; pause this trial.** The failure mode, point of failure and actual material/time consumed have not been supplied, so no cause or fix is established. Digital slice validation did not establish reliable physical printing.
+
+This saved 3MF is the failed trial setup retained for diagnosis, not a proven production preset. No automatic retry, sale listing or saleable inventory. Revisit only if failure evidence suggests a small correction worth one bounded test; then recheck the saved setup and exact jig/hose fit before selling. No model or slicer-setting changes were made when parking this trial.
+
 ## Source and attribution
 
 Original: **Festool to Kreg Dust Shroud**, **Tooltutor**, [Thingiverse 22865](https://www.thingiverse.com/thing:22865). Original left-hand STL dated May 11, 2012, retained unchanged in `source/`. Licensed [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/); commercial use is permitted with attribution. No endorsement by the creator, Kreg or Festool is implied.
@@ -10,7 +16,7 @@ The unitless original has inch-sized coordinates. `Kreg_D27_Left_Metric.stl` app
 
 Source owner reports include K4 and K5 use, but also mixed hose-fit reports. This is not universal Kreg or vacuum-hose compatibility. Successful source makes do not validate this exact print.
 
-## Print one prototype
+## Archived prototype setup
 
 Open `Kreg_D27_Left_Dark_Blue_PETG_P1S_Test.3mf` in Bambu Studio. It contains **one shroud on one plate**. P1S, 0.4 mm nozzle, textured PEI; **Generic PETG**, dark-blue preview `#2850E0`, 255°C nozzle / 70°C bed, flow ratio 0.95, maximum volumetric speed 12 mm³/s. This is the final user-synchronized preset; it supersedes the earlier named 10 mm³/s preparation profile. It has not been calibrated specifically to this spool. The photographed spool is PETG Basic Dark Blue, SKU NPETG019, 1.75 mm; its label specifies 230–260°C nozzle and 70–90°C bed. Preview color is illustrative, not an exact Kreg color match.
 
@@ -22,9 +28,9 @@ Final native slice: **2h02m / 51.90 g**, including **8.31 g support**, 282 layer
 
 On October 21, 2026, live printer check showed the previous job finished and a clear textured plate. A3 was verified as blue PETG. Send dialog correctly mapped project filament 1 to **AMS A3**, auto bed leveling on, timelapse off. Always recheck actual loaded material and assignment before another run; a saved project color is not proof of a physical slot.
 
-Dispatched **October 21, 2026 at about 11:32 CDT**, dark-blue PETG **AMS A3**, auto bed leveling on, timelapse off. Printer accepted the full job and entered preparation at **0/282 layers, waiting for the heatbed to reach 70°C**, with an initial estimated finish around **13:34 CDT**. Physical completion and fit are not yet verified.
+Dispatched **October 21, 2026 at about 11:32 CDT**, dark-blue PETG **AMS A3**, auto bed leveling on, timelapse off. Printer accepted the full job and entered preparation at **0/282 layers, waiting for the heatbed to reach 70°C**, with an initial estimated finish around **13:34 CDT**. Richard subsequently reported a failed print on October 25; no completed usable unit or fit validation is established.
 
-After cooling, remove supports carefully and check that retention features remain intact. Test the exact jig and hose without forcing either connection, check ordinary hose movement and vacuum flow, and capture installed photos before any sale trial. No universal-fit, dust-elimination, static-safety or heat-proof claim.
+If this project is revisited and a print succeeds, let it cool and remove supports carefully and check that retention features remain intact. Test the exact jig and hose without forcing either connection, check ordinary hose movement and vacuum flow, and capture installed photos before any sale trial. No universal-fit, dust-elimination, static-safety or heat-proof claim.
 
 ## Files
 

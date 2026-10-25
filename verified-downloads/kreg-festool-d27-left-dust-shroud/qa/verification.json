@@ -1,6 +1,6 @@
 {
   "verified_date": "2026-10-21",
-  "status": "Dispatched first physical prototype; printer accepted and entered preparation; completion and fit not verified",
+  "status": "Reserve / paused: user reported failed physical print; cause undiagnosed; saved trial setup is not production validated",
   "geometry": {
     "source_faces": 72066,
     "native_faces": 72066,
@@ -87,5 +87,18 @@
     "completed": false,
     "fit_verified": false
   },
-  "physical_fit": "pending matching Kreg jig and Festool D27 hose test"
+  "physical_fit": "pending matching Kreg jig and Festool D27 hose test",
+  "trial_outcome": {
+    "reported_date": "2026-10-25",
+    "source": "Richard reported the print failed",
+    "result": "failed physical print",
+    "failure_mode": "not supplied",
+    "failure_date": "not supplied",
+    "actual_material_and_time": "unknown",
+    "disposition": "retain files in reserve; pause trial",
+    "automatic_retry": false,
+    "saleable_units_established": 0,
+    "fit_verified": false,
+    "settings_changed": false
+  }
 }
