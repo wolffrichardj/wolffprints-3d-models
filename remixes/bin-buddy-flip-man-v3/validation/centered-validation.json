@@ -1,0 +1,48 @@
+{
+  "vertices": 5324,
+  "triangles": 10652,
+  "bounds_mm": [
+    [
+      -51.499000549316406,
+      -44.0,
+      0.0
+    ],
+    [
+      51.499000549316406,
+      48.85429382324219,
+      35.0
+    ]
+  ],
+  "dimensions_mm": [
+    102.998,
+    92.8543,
+    35.0
+  ],
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "connected_components": 1,
+  "volume_mm3": 22838.468,
+  "center_of_mass_mm": [
+    16.5026,
+    -14.4829,
+    17.5
+  ],
+  "sha256": "cad5993cc7892ac9902d5a95095c95ae127eb491645068f9c0a441293710f791",
+  "physical_flip_tested": false,
+  "character_axial_position_mm": [
+    15.2,
+    19.8
+  ],
+  "collar_width_mm": 35,
+  "protected_region_symmetric_difference": "empty below source Y=-9 mm",
+  "slice_success": true,
+  "estimated_total_seconds": 6699.04248046875,
+  "estimated_PETG_g": 32.93041229248047,
+  "layer_height_mm": 0.24,
+  "source_scad_sha256": "2821944e415c001440b4aaea21711d6308904454c0ec2e79c7eee0f679306004",
+  "original_edge_axial_com_mm": 13.2741,
+  "centered_axial_com_mm": 17.5,
+  "axial_imbalance_removed_mm": 4.2259,
+  "fit_evidence": "Unchanged opening matches the 6 mm-wide coupon reported to fit; full 35 mm-width fit not confirmed in this chat."
+}

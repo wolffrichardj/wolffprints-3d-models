@@ -1,0 +1,77 @@
+{
+  "original": {
+    "bounds_mm": [
+      [
+        -51.499,
+        -44.0,
+        0.0
+      ],
+      [
+        51.499,
+        44.0,
+        35.0
+      ]
+    ],
+    "dimensions_mm": [
+      102.998,
+      88.0,
+      35.0
+    ],
+    "vertices": 690,
+    "triangles": 1376,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "connected_components": 1,
+    "volume_mm3": 23307.615240896084,
+    "center_of_mass_mm": [
+      17.0101,
+      -14.1523,
+      17.5
+    ]
+  },
+  "remix": {
+    "bounds_mm": [
+      [
+        -51.499,
+        -44.0,
+        0.0
+      ],
+      [
+        51.499,
+        78.7,
+        35.0
+      ]
+    ],
+    "dimensions_mm": [
+      102.998,
+      122.7,
+      35.0
+    ],
+    "vertices": 3062,
+    "triangles": 6128,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "connected_components": 1,
+    "volume_mm3": 22905.520301085,
+    "center_of_mass_mm": [
+      16.8788,
+      -12.4755,
+      17.6482
+    ]
+  },
+  "figure_thickness_mm": 2.8,
+  "estimated_static_balance_direction_change_degrees": -3.203,
+  "pivot_assumption_xy_mm": [
+    35.224,
+    -26.827
+  ],
+  "balance_scope": "Uniform solid mesh mass; approximate handle axis from the measured cavity. Sliced infill and an actual bin may differ. This is not a physical flip test.",
+  "protected_region_y_max_mm": 14.9,
+  "protected_geometry_symmetric_difference": "Confirmed empty on final source below Y=14.9 mm; collar and lid-contact arm unchanged.",
+  "handle_fit_scope": "Original collar unchanged; smaller 6 mm-wide coupon fit confirmed by Richard; full-width remix untested.",
+  "physical_flip_behavior_verified": false,
+  "source_scad_sha256": "0056c10e0208ea57efb21ea7d763779a650f84b48d70af654b9e4eb66ba9f0a7",
+  "final_stl_sha256": "1837863147e03e345fc361341a233115e7068bb058efd275b24158e4c8de2b1b"
+}

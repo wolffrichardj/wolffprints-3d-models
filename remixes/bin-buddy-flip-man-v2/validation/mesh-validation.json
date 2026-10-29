@@ -1,0 +1,80 @@
+{
+  "Happy_Helper": {
+    "vertices": 5558,
+    "triangles": 11120,
+    "bounds_mm": [
+      [
+        -51.499000549316406,
+        -44.0,
+        0.0
+      ],
+      [
+        51.499000549316406,
+        49.0,
+        40.930999755859375
+      ]
+    ],
+    "dimensions_mm": [
+      102.998,
+      93.0,
+      40.931
+    ],
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "connected_components": 1,
+    "volume_mm3": 22784.741,
+    "center_of_mass_mm": [
+      17.0215,
+      -14.2477,
+      17.9171
+    ],
+    "static_balance_direction_change_deg": 0.19,
+    "physical_flip_tested": false,
+    "sha256": "b9aac4618e573bb01456e2072158cd066e2a96b991c967f806e3e553e66534df",
+    "slice_success": true,
+    "estimated_total_seconds": 6433.89404296875,
+    "estimated_PETG_g": 30.352930068969727,
+    "protected_region_symmetric_difference": "empty below source Y=-9 mm"
+  },
+  "Overall_Buddy": {
+    "vertices": 5308,
+    "triangles": 10620,
+    "bounds_mm": [
+      [
+        -51.499000549316406,
+        -44.0,
+        0.0
+      ],
+      [
+        51.499000549316406,
+        48.85429382324219,
+        40.930999755859375
+      ]
+    ],
+    "dimensions_mm": [
+      102.998,
+      92.8543,
+      40.931
+    ],
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "connected_components": 1,
+    "volume_mm3": 22668.834,
+    "center_of_mass_mm": [
+      16.9797,
+      -14.5325,
+      17.8735
+    ],
+    "static_balance_direction_change_deg": 0.86,
+    "physical_flip_tested": false,
+    "sha256": "76116701d577287448a5b761689651ec2d63491c043e98f6693ce7788b2d6c57",
+    "slice_success": true,
+    "estimated_total_seconds": 6509.87353515625,
+    "estimated_PETG_g": 30.42665672302246,
+    "protected_region_symmetric_difference": "empty below source Y=-9 mm"
+  },
+  "_scope": "Balance is a uniform-solid estimate around an approximate handle axis; no physical flip test. Complete collar and lid-contact arm unchanged.",
+  "_source_scad_sha256": "34f5a8a6950024decbcd1343864a90d6eeeadb3c3c3915e828131b139a1bc6bf"
+}

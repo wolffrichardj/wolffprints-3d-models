@@ -1,0 +1,81 @@
+{
+    "error_string": "Success.",
+    "export_time": 656,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 25,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 35.88853073120117,
+                "Bridge": 67.87273406982422,
+                "Custom": 373.5193786621094,
+                "Flush": 29.0,
+                "Gap infill": 367.08807373046875,
+                "Inner wall": 1686.9981689453125,
+                "Internal solid infill": 302.57696533203125,
+                "Outer wall": 1110.656005859375,
+                "Overhang wall": 0.3991982936859131,
+                "Sparse infill": 348.06707763671875,
+                "Support": 3.2057552337646484,
+                "Support interface": 2.795003890991211,
+                "Top surface": 107.85478210449219,
+                "Travel": 424.4645690917969,
+                "Undefined": 408.89422607421875
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFG99",
+                    "id": 1,
+                    "main_used_g": 27.491853713989258,
+                    "total_used_g": 27.491853713989258
+                }
+            ],
+            "generate_support_material_time": 388,
+            "id": 1,
+            "infill_time": 570,
+            "layer_filament_change": 0,
+            "main_predication": 4428.93701171875,
+            "make_perimeters_time": 1098,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 93.0,
+                        "height": 35.0,
+                        "width": 102.99800109863281,
+                        "x": 76.5009994506836,
+                        "y": 81.5,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "Happy Helper",
+                    "triangle_count": 11144
+                }
+            ],
+            "sliced_time": 3301,
+            "sliced_time_with_cache": 1106,
+            "total_predication": 4844.85546875,
+            "triangle_count": 11144,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 100.0,
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 4
+}

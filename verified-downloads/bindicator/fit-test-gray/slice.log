@@ -1,0 +1,6 @@
+[2026-10-27 19:30:40.642929] [0x00000001f3e1a180] [trace]   Initializing StaticPrintConfigs
+[2026-10-27 19:30:40.653120] [0x00000001f3e1a180] [warning] cli mode, Current BambuStudio Version 02.08.02.61
+[2026-10-27 19:30:40.662888] [0x00000001f3e1a180] [warning] run:2873, can not find system preset file: /Applications/BambuStudio.app/Contents/Resources/profiles/BBL/machine_full/Bambu Lab P1S 0.4 nozzle.json
+[2026-10-27 19:30:40.662930] [0x00000001f3e1a180] [warning] run:2895, can not find system preset file: /Applications/BambuStudio.app/Contents/Resources/profiles/BBL/process_full/Bindicator fit tests 0.16mm PETG.json
+[2026-10-27 19:30:40.662954] [0x00000001f3e1a180] [warning] no filament colors found in projects
+[2026-10-27 19:30:40.663982] [0x00000001f3e1a180] [warning] load_nozzle_infos_with_compatibility: building nozzle list from filament map and volume types

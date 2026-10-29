@@ -1,0 +1,21 @@
+{
+  "source": "https://makerworld.com/en/models/2889779-bindicator",
+  "dimensions_mm": [
+    102.998,
+    88.0,
+    35.0
+  ],
+  "vertices": 690,
+  "triangles": 1376,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "signed_volume_mm3": 23307.615179943128,
+  "unique_z_planes": [
+    -17.5,
+    17.5
+  ],
+  "scaling": 1.0,
+  "physical_fit_verified": false,
+  "ams_mapping_verified": false
+}
