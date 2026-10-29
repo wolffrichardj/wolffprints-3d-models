@@ -1,0 +1,14 @@
+{
+  "method": "maximize minimum Euclidean distance to all profile boundary segments near handle cavity; original mesh at 100 percent scale",
+  "max_inscribed_circle_center_xy_mm": [
+    35.224,
+    -26.827
+  ],
+  "max_inscribed_circle_diameter_mm": 25.0657,
+  "nominal_handle_diameter_not_published": true,
+  "comparison": {
+    "printables_771018_default_handle_diameter_mm": 32,
+    "source": "https://www.printables.com/model/771018-universal-full-empty-flag-for-trash-can-recycle-bi"
+  },
+  "conclusion": "A 32 mm circular handle does not clear this unchanged cavity without flexing; verify with coupon or measure bin. The two models do not share the same handle opening."
+}

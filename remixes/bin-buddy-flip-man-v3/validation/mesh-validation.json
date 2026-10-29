@@ -1,0 +1,85 @@
+{
+  "Happy_Helper": {
+    "vertices": 5570,
+    "triangles": 11144,
+    "bounds_mm": [
+      [
+        -51.499000549316406,
+        -44.0,
+        0.0
+      ],
+      [
+        51.499000549316406,
+        49.0,
+        35.0
+      ]
+    ],
+    "dimensions_mm": [
+      102.998,
+      93.0,
+      35.0
+    ],
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "connected_components": 1,
+    "volume_mm3": 22954.374,
+    "center_of_mass_mm": [
+      16.4984,
+      -14.2004,
+      13.2187
+    ],
+    "static_balance_direction_change_deg": 0.84,
+    "physical_flip_tested": false,
+    "sha256": "d672ee9f7122b98844febebcdb8eb1c3d7ae3402f62e22f303c7988165246032",
+    "slice_success": true,
+    "estimated_total_seconds": 4844.85546875,
+    "estimated_PETG_g": 27.491853713989258,
+    "protected_region_symmetric_difference": "empty below source Y=-9 mm"
+  },
+  "Overall_Buddy": {
+    "vertices": 5320,
+    "triangles": 10644,
+    "bounds_mm": [
+      [
+        -51.499000549316406,
+        -44.0,
+        0.0
+      ],
+      [
+        51.499000549316406,
+        48.85429382324219,
+        35.0
+      ]
+    ],
+    "dimensions_mm": [
+      102.998,
+      92.8543,
+      35.0
+    ],
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "connected_components": 1,
+    "volume_mm3": 22838.468,
+    "center_of_mass_mm": [
+      16.5026,
+      -14.4829,
+      13.2741
+    ],
+    "static_balance_direction_change_deg": 1.43,
+    "physical_flip_tested": false,
+    "sha256": "253b393f8c700477ca77d119f4c3d2c42ffd0af701377fb894a99ea72da87c98",
+    "slice_success": true,
+    "estimated_total_seconds": 4791.0517578125,
+    "estimated_PETG_g": 27.35222816467285,
+    "protected_region_symmetric_difference": "empty below source Y=-9 mm"
+  },
+  "_scope": "Uniform solid mesh estimate, approximate handle axis; complete collar and arm unchanged; physical flip and lid clearance untested.",
+  "_character_plane": "XY, perpendicular to v2 YZ face",
+  "_character_axial_position_mm": [
+    0,
+    4.6
+  ],
+  "_source_scad_sha256": "2821944e415c001440b4aaea21711d6308904454c0ec2e79c7eee0f679306004"
+}

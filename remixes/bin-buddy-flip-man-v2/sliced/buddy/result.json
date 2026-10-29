@@ -1,0 +1,80 @@
+{
+    "error_string": "Success.",
+    "export_time": 552,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 18,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bridge": 4.33325719833374,
+                "Custom": 373.2709655761719,
+                "Flush": 29.0,
+                "Gap infill": 376.27825927734375,
+                "Inner wall": 2076.860107421875,
+                "Internal solid infill": 190.0878143310547,
+                "Outer wall": 1356.2078857421875,
+                "Overhang wall": 38.71952819824219,
+                "Sparse infill": 9.345947265625,
+                "Support": 1229.4600830078125,
+                "Support interface": 28.01700782775879,
+                "Top surface": 39.81440734863281,
+                "Travel": 773.5530395507813,
+                "Undefined": 758.2240600585938
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFG99",
+                    "id": 1,
+                    "main_used_g": 30.42665672302246,
+                    "total_used_g": 30.42665672302246
+                }
+            ],
+            "generate_support_material_time": 1244,
+            "id": 1,
+            "infill_time": 71,
+            "layer_filament_change": 0,
+            "main_predication": 6093.96240234375,
+            "make_perimeters_time": 562,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 92.85429382324219,
+                        "height": 40.930999755859375,
+                        "width": 102.99800109863281,
+                        "x": 76.5009994506836,
+                        "y": 81.5728530883789,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "Overall Buddy",
+                    "triangle_count": 10620
+                }
+            ],
+            "sliced_time": 2577,
+            "sliced_time_with_cache": 574,
+            "total_predication": 6509.87353515625,
+            "triangle_count": 10620,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 5.0,
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 4
+}

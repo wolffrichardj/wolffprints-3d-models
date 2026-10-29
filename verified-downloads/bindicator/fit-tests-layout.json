@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Original opening - approx 25.1mm",
+    "size_mm": [
+      37.499,
+      37.0,
+      6.0
+    ],
+    "center_on_plate_mm": [
+      92,
+      128
+    ],
+    "triangles": 1352
+  },
+  {
+    "name": "32.6mm opening - 32mm handle test",
+    "size_mm": [
+      48.7705,
+      48.12162000000001,
+      6.0
+    ],
+    "center_on_plate_mm": [
+      156,
+      128
+    ],
+    "triangles": 1352
+  }
+]

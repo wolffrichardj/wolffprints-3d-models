@@ -1,0 +1,89 @@
+{
+    "error_string": "Success.",
+    "export_time": 563,
+    "layer_height": 0.1599999964237213,
+    "plate_index": 0,
+    "prepare_time": 11,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Custom": 377.1453552246094,
+                "Flush": 29.0,
+                "Gap infill": 68.73847198486328,
+                "Inner wall": 468.16070556640625,
+                "Internal solid infill": 26.21890640258789,
+                "Outer wall": 282.9472351074219,
+                "Sparse infill": 16.30807113647461,
+                "Top surface": 34.34559631347656,
+                "Travel": 128.05499267578125,
+                "Undefined": 112.73031616210938
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFG99",
+                    "id": 1,
+                    "main_used_g": 5.3104119300842285,
+                    "total_used_g": 5.3104119300842285
+                }
+            ],
+            "generate_support_material_time": 14,
+            "id": 1,
+            "infill_time": 35,
+            "layer_filament_change": 0,
+            "main_predication": 995.7947998046875,
+            "make_perimeters_time": 112,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 37.0,
+                        "height": 6.0,
+                        "width": 37.49899673461914,
+                        "x": 73.25050354003906,
+                        "y": 109.5,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "Original opening - approx 25.1mm",
+                    "triangle_count": 1352
+                },
+                {
+                    "bbox": {
+                        "depth": 48.12162399291992,
+                        "height": 6.0,
+                        "width": 48.770503997802734,
+                        "x": 131.61474609375,
+                        "y": 103.9391860961914,
+                        "z": 0.0
+                    },
+                    "id": 9,
+                    "name": "32.6mm opening - 32mm handle test",
+                    "triangle_count": 1352
+                }
+            ],
+            "sliced_time": 358,
+            "sliced_time_with_cache": 168,
+            "total_predication": 1415.5848388671875,
+            "triangle_count": 2704,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 5.0,
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 4
+}

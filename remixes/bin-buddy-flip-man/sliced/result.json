@@ -1,0 +1,77 @@
+{
+    "error_string": "Success.",
+    "export_time": 483,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 13,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Custom": 373.5550842285156,
+                "Flush": 29.0,
+                "Gap infill": 435.44647216796875,
+                "Inner wall": 1991.7464599609375,
+                "Outer wall": 1399.70361328125,
+                "Overhang wall": 30.129167556762695,
+                "Support": 1122.197998046875,
+                "Support interface": 26.198280334472656,
+                "Top surface": 50.748924255371094,
+                "Travel": 739.5905151367188,
+                "Undefined": 723.9859008789063
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFG99",
+                    "id": 1,
+                    "main_used_g": 30.84542465209961,
+                    "total_used_g": 30.84542465209961
+                }
+            ],
+            "generate_support_material_time": 672,
+            "id": 1,
+            "infill_time": 30,
+            "layer_filament_change": 0,
+            "main_predication": 5767.24072265625,
+            "make_perimeters_time": 263,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 122.69999694824219,
+                        "height": 35.0,
+                        "width": 102.99800109863281,
+                        "x": 76.5009994506836,
+                        "y": 66.6500015258789,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "Bin Buddy Flip Man",
+                    "triangle_count": 6128
+                }
+            ],
+            "sliced_time": 1431,
+            "sliced_time_with_cache": 396,
+            "total_predication": 6183.16064453125,
+            "triangle_count": 6128,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 5.0,
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 4
+}

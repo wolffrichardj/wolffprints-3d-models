@@ -1,0 +1,12 @@
+{
+  "dimensions_mm": [
+    37.499,
+    37.0,
+    6.0
+  ],
+  "triangles": 1352,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "physical_fit_verified": false
+}

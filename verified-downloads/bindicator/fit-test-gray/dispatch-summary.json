@@ -1,0 +1,31 @@
+{
+  "dispatched_at_local": "2026-10-27T19:36:00-05:00",
+  "dispatch_time_precision": "minute",
+  "job_name": "Bindicator_Handle_Fit_Tests",
+  "parts": [
+    "original opening approximately 25.1mm",
+    "enlarged opening approximately 32.6mm"
+  ],
+  "filament": "Gray PETG",
+  "ams_slot": "A1",
+  "auto_bed_leveling": true,
+  "timelapse": false,
+  "estimate_seconds": 1406,
+  "estimated_filament_g": 5.31,
+  "printer_accepted": true,
+  "observed_status": "Finished",
+  "physical_completion_verified": true,
+  "handle_fit_verified": true,
+  "duplicate_job_sent": false,
+  "layers_completed": 37,
+  "layers_total": 37,
+  "printer_progress_percent": 100,
+  "estimated_finish_local": "2026-10-27T20:00:00-05:00",
+  "heatbed_target_c": 70,
+  "observed_bed_c": 33,
+  "observed_nozzle_target_c": 75,
+  "start_preparation_verified": true,
+  "handle_fit_evidence": "Richard reported the smaller size was perfect for our bin.",
+  "handle_fit_scope": "6mm-wide original-size test coupon, approximately 25.1mm rigid circular clearance. Full-width indicator not yet physically tested.",
+  "record_scope": "Historical print record; archiving does not initiate another print."
+}
